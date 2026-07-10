@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "nomProduct": "XVB50-QL8-G",
+        "imgProduct": "p-xvb50-ql8-g.png",
+        "description": "Le XVB50-QL8-G appartient à la série électrique haut de gamme « Peacock » de XCMG, conçue pour les applications industrielles lourdes telles que la pierre, la céramique, les ports et les mines. Il repose sur une plateforme haute tension de 309 V associée à une batterie lithium de grande capacité refroidie par eau, permettant une charge complète en une heure pour environ douze heures d'autonomie continue. Sa capacité nominale de 5000 kg et sa hauteur de levage de 3000 mm en font un engin polyvalent pour la manutention industrielle intensive, tout en conservant une motorisation 100% électrique respectueuse de l'environnement.",
+        "caracteristiques": "Capacité de charge nominale : 5000 kg\nPoids de la machine : 7000 kg\nDistance au centre de charge : 500 mm\nEmpattement : 2050 mm\nHauteur du mât replié : 2280 mm\nHauteur de levage libre : 150 mm\nHauteur de levage maximale : 3000 mm\nHauteur de travail max (avec dosseret) : 4320 mm\nVitesse de déplacement (chargé\/à vide) : 21\/23 km\/h\nVitesse de levage (chargé\/à vide) : 0,38\/0,46 m\/s\nPente franchissable max (chargé\/à vide) : 21%\/25%\nMotorisation : batterie lithium, plateforme haute tension 309 V, refroidissement liquide",
+        "typeMachine": "Chariot élévateur électrique à contrepoids (série Peacock)",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:39:06",
+        "updated_at": "2026-06-30 21:39:06"
+    },
+    {
+        "id": 2,
+        "nomProduct": "XVB100-QL9-G",
+        "imgProduct": "p-xvb100-ql9-g.png",
+        "description": "Variante haute capacité de la série Peacock, le XVB100-QL9-G est destiné aux opérations industrielles exigeantes nécessitant le levage de charges allant jusqu'à 10 tonnes. Il embarque la même architecture lithium 309 V à refroidissement par eau que les modèles plus légers de la gamme, garantissant fiabilité et endurance en usage intensif sur plusieurs équipes. Son châssis renforcé de près de 13,8 tonnes et sa force de traction maximale de 49 000 N lui permettent d'opérer efficacement dans les secteurs automobile, métallurgique, minier ou portuaire. La conception électrique élimine les émissions directes, un atout pour les sites industriels ou logistiques cherchant à réduire leur empreinte carbone.",
+        "caracteristiques": "Capacité de charge nominale : 10 000 kg\nPoids de la machine : 13 800 kg\nDistance au centre de charge : 600 mm\nEmpattement : 2450 mm\nHauteur de levage maximale : 3000 mm\nHauteur de travail max (avec dosseret) : 4345 mm\nVitesse de déplacement (chargé\/à vide) : 28\/30 km\/h\nForce de traction maximale (chargé) : 49 000 N\nPente franchissable max (chargé\/à vide) : 22%\/25%\nMotorisation : batterie lithium, plateforme haute tension 309 V, refroidissement liquide",
+        "typeMachine": "Chariot élévateur électrique lourd à contrepoids (série Peacock)",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:39:09",
+        "updated_at": "2026-06-30 21:39:09"
+    },
+    {
+        "id": 3,
+        "nomProduct": "XCB160",
+        "imgProduct": "p-xcb160.png",
+        "description": "Le XCB160 représente le haut de gamme électrique de XCMG pour la manutention lourde, avec une capacité nominale de 16 tonnes destinée aux ports, sites miniers et usines sidérurgiques. Il fonctionne sur un système haute tension de 601,6 V offrant un rendement énergétique élevé et une réduction des pertes thermiques par rapport aux solutions basse tension classiques. La cabine entièrement vitrée à 360° et suspendue améliore le confort et la visibilité de l'opérateur lors de manœuvres de précision avec des charges volumineuses. Avec un poids total de près de 22 tonnes et un système hydraulique refroidi par eau, ce chariot vise à remplacer les engins diesel équivalents tout en maintenant une disponibilité opérationnelle élevée.",
+        "caracteristiques": "Capacité de charge nominale : 16 000 kg\nPoids de la machine : 21 773 kg\nDistance au centre de charge : 600 mm\nEmpattement : 3100 mm\nHauteur de levage : 3000 mm\nHauteur de travail max (avec dosseret) : 4830 mm\nLongueur hors tout (avec fourches) : 6728 mm\nLargeur hors tout : 2600 mm\nVitesse de déplacement (chargé\/à vide) : 16\/18 km\/h\nMotorisation : électrique, système haute tension 601,6 V",
+        "typeMachine": "Chariot élévateur électrique à contrepoids grande tonnage",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:39:11",
+        "updated_at": "2026-06-30 21:39:11"
+    },
+    {
+        "id": 4,
+        "nomProduct": "XCF2512K",
+        "imgProduct": "p-xcf2512k.png",
+        "description": "Le XCF2512K est un chariot élévateur thermique à contrepoids de 25 tonnes, bâti sur la dernière plateforme modulaire lourde de XCMG. Il cible les opérations portuaires, les cours à marchandises, les entrepôts et les zones de transfert ferroviaire\/routier nécessitant le déplacement de charges très lourdes. Sa conception modulaire associe puissance, stabilité et confort de conduite, avec un mât pouvant atteindre 5950 mm déployé. Ce modèle illustre la gamme thermique complémentaire de XCMG aux côtés des séries électriques, pour les sites où l'autonomie et la puissance brute restent prioritaires.",
+        "caracteristiques": "Capacité de charge nominale : 25 000 kg\nDistance au centre de charge : 1200 mm\nPoids total : 37 950 kg\nVitesse de levage max (charge\/à vide) : 280\/310 mm\/s\nVitesse de déplacement max (charge\/à vide) : 25\/27 km\/h\nPente franchissable (pleine charge) : 25%\nRayon de braquage : 5820 mm\nHauteur du mât (replié\/déployé) : 3980\/5950 mm\nDimensions des fourches (L x l x ép.) : 2440 x 250 x 110 mm",
+        "typeMachine": "Chariot élévateur thermique à contrepoids grande tonnage",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:39:14",
+        "updated_at": "2026-06-30 21:39:14"
+    },
+    {
+        "id": 5,
+        "nomProduct": "XVF16\/20-PB-C",
+        "imgProduct": "p-xvf16-20-pb-c.png",
+        "description": "Le XVF16\/20-PB-C est un chariot électrique compact à mât rétractable, conçu pour les entrepôts et environnements logistiques où la maniabilité prime, notamment en pharmacie, agroalimentaire et fabrication industrielle. Sa capacité de charge de 1,6 à 2 tonnes et son faible rayon de braquage en font un outil adapté aux allées étroites et aux opérations de stockage en hauteur. Le mât rétractable permet d'atteindre 4,6 mètres de hauteur de levage tout en conservant un encombrement réduit du véhicule. Ce modèle complète la gamme électrique légère de XCMG, pensée pour la manutention fine en entrepôt plutôt que pour les charges portuaires lourdes.",
+        "caracteristiques": "Capacité de charge nominale : 1600-2000 kg\nHauteur de levage maximale : 4600 mm\nDimensions hors tout (L\/H\/l) : 2354-2410 \/ 2200 \/ 1270 mm\nDimensions des fourches : 35-40 x 100-122 x 1070 mm\nRayon de braquage minimal : 1647-1747 mm\nVitesse de déplacement (chargé\/à vide) : 14 km\/h\nVitesse de levage : 340-550 mm\/s\nMotorisation : électrique",
+        "typeMachine": "Chariot élévateur électrique à mât rétractable (assis, série front-moving)",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:39:16",
+        "updated_at": "2026-06-30 21:39:16"
+    },
+    {
+        "id": 6,
+        "nomProduct": "XCS45",
+        "imgProduct": "p-xcs45.jpg",
+        "description": "Le XCS45 est l'engin de manutention portuaire phare de XCMG, conçu spécifiquement pour le transport et le gerbage de conteneurs dans les ports, terminaux et gares de fret. Motorisé par un puissant moteur Volvo TAD1151VE de 265 kW couplé à une transmission robuste, il peut soulever jusqu'à 45 tonnes et empiler les conteneurs sur cinq niveaux avec une hauteur de levage maximale de 15,1 mètres. L'engin intègre des technologies de détection de charge et des commandes électriques réactives pour sécuriser les opérations de gerbage à grande hauteur. Avec un poids à vide de près de 71 tonnes, il est dimensionné pour une utilisation intensive dans les ports de fort tonnage.",
+        "caracteristiques": "Capacité de levage maximale : 45 tonnes\nHauteur de levage maximale : 15 100 mm\nCapacité de gerbage : 5 niveaux\nMoteur : Volvo TAD1151VE, 265 kW à 2100 tr\/min\nCouple moteur : 1785 N.m à 1260 rpm\nPoids à vide : 70 995 kg\nVitesse max (vide\/en charge) : 27\/25 km\/h\nRayon de braquage : 7,95 m\nPente franchissable max : 32%\nVitesse de levage (vide\/en charge) : 425\/250 m\/min",
+        "typeMachine": "Reach stacker portuaire pour conteneurs (engin de levage frontal)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:20",
+        "updated_at": "2026-06-30 21:39:20"
+    },
+    {
+        "id": 7,
+        "nomProduct": "XCS1009K",
+        "imgProduct": "p-xcs1009k.jpg",
+        "description": "Le XCS1009K est la déclinaison de capacité intermédiaire de la gamme reach stacker de XCMG, équipée du spreader XDJ100 capable de manipuler les conteneurs standards ISO 20 et 40 pieds. Il associe des concepts de conception globaux avancés à une motorisation Cummins QSB6.7 turbocompressée reconnue pour sa fiabilité dans les environnements portuaires exigeants. Sa capacité de levage de 10 tonnes au niveau du spreader, avec un déport latéral de ±800 mm, le rend particulièrement adapté aux terminaux de taille moyenne et aux centres logistiques à volume modéré. Ce modèle illustre la stratégie de XCMG consistant à proposer plusieurs gammes de tonnage pour couvrir aussi bien les grands ports que les sites de fret plus restreints.",
+        "caracteristiques": "Capacité de levage (au spreader) : 10 tonnes\nDéport latéral : ±800 mm\nSpreader : XDJ100, compatible conteneurs 20' et 40'\nMoteur : Cummins QSB6.7 turbocompressé\nFonctions du spreader : télescopage, déport latéral, rotation, verrouillage twist-lock\nApplication : ports, terminaux, gares de fret de taille moyenne",
+        "typeMachine": "Reach stacker portuaire pour conteneurs (capacité intermédiaire)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:20",
+        "updated_at": "2026-06-30 21:39:20"
+    },
+    {
+        "id": 8,
+        "nomProduct": "XLF160",
+        "imgProduct": "p-xlf160.jpg",
+        "description": "Le XLF160 est un équipement de manutention et de gerbage conçu par XCMG pour les environnements portuaires et logistiques nécessitant de lever des charges lourdes hors conteneurs, telles que des bobines, big-bags ou matériaux en vrac. Propulsé par un moteur Cummins QSB6.7 de 142 kW, il offre une capacité de levage maximale de 16 tonnes pour une hauteur de levage de 5 mètres. Sa structure compacte par rapport à un reach stacker classique lui confère une excellente maniérabilité tout en conservant une grande robustesse pour les opérations répétées en cour à conteneurs ou en entrepôt portuaire. Il complète la gamme de matériel de manutention portuaire de XCMG aux côtés des reach stackers proprement dits.",
+        "caracteristiques": "Capacité de levage maximale : 16 tonnes\nHauteur de levage maximale : 5000 mm\nMoteur : Cummins QSB6.7, 142 kW, couple 930 N.m\nPoids à vide : 21 890 kg\nVitesse max (vide\/en charge) : 32\/30 km\/h\nVitesse de levage (vide\/en charge) : 450\/400 m\/min\nRayon de braquage minimal : 10,2 m\nPente franchissable max : 23%",
+        "typeMachine": "Chariot élévateur lourd à contrepoids pour environnement portuaire (mobile lifting equipment)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:22",
+        "updated_at": "2026-06-30 21:39:22"
+    },
+    {
+        "id": 9,
+        "nomProduct": "XLF180",
+        "imgProduct": "p-xlf180.jpg",
+        "description": "Version renforcée du XLF160, le XLF180 partage la même base technique avec un moteur Cummins QSB6.7 mais pousse la capacité de levage à 18 tonnes pour une hauteur de 5 mètres. Conçu pour la manutention et le gerbage en zone portuaire, il cible les charges particulièrement lourdes que les chariots élévateurs classiques ne peuvent traiter efficacement. Son poids à vide de plus de 21 tonnes et sa transmission robuste garantissent stabilité et sécurité même en charge maximale. Cet engin s'intègre dans la stratégie de XCMG de proposer une gamme progressive de matériel de manutention portuaire entre les chariots élévateurs standards et les reach stackers haute capacité.",
+        "caracteristiques": "Capacité de levage maximale : 18 tonnes\nHauteur de levage maximale : 5000 mm\nMoteur : Cummins QSB6.7, 142 kW, couple 930 N.m\nPoids à vide : 21 450 kg\nVitesse max (vide\/en charge) : 32\/30 km\/h\nVitesse de levage (vide\/en charge) : 450\/400 m\/min\nRayon de braquage minimal : 10,2 m\nPente franchissable max : 21%",
+        "typeMachine": "Chariot élévateur lourd à contrepoids pour environnement portuaire (mobile lifting equipment)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:24",
+        "updated_at": "2026-06-30 21:39:24"
+    },
+    {
+        "id": 10,
+        "nomProduct": "XCH907K",
+        "imgProduct": "p-xch907k.png",
+        "description": "Le XCH907K appartient à la série K de gerbeurs pour conteneurs vides de XCMG, pensée pour les ports, terminaux et centres logistiques ferroviaires. Sa capacité nominale de 9 tonnes et sa capacité de gerbage de 7 niveaux (8'6'') en font un équipement de choix pour optimiser la densité de stockage des conteneurs vides. Le système hydraulique à double pompe avec fusion de débit et la technologie d'adaptation dynamique de puissance permettent une réduction de consommation de carburant pouvant atteindre 16% par rapport aux générations précédentes. Sa hauteur de fourche modulable de 2,25 m à 18,78 m lui permet de couvrir l'ensemble des besoins de gerbage en hauteur d'un terminal moderne.",
+        "caracteristiques": "Capacité de charge nominale : 9 tonnes\nCapacité de gerbage : 7 niveaux (8'6'')\nPoids total du véhicule : 41 tonnes\nHauteur des fourches (min-max) : 2250-18780 mm\nVitesse de levage max (vide\/en charge) : 600\/550 mm\/s\nVitesse de déplacement max (vide\/en charge) : 28\/26 km\/h\nPente franchissable (vide\/en charge) : 30%\/22%\nRayon de braquage minimal : 6200 mm",
+        "typeMachine": "Gerbeur de conteneurs vides (empty container handler, série K)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:27",
+        "updated_at": "2026-06-30 21:39:27"
+    },
+    {
+        "id": 11,
+        "nomProduct": "XCH80",
+        "imgProduct": "p-xch80.jpg",
+        "description": "Le XCH80 est un équipement spécialisé de XCMG dédié au gerbage des conteneurs vides en port et en cour à conteneurs, capable d'empiler jusqu'à 7 niveaux pour une hauteur de levage atteignant près de 19 mètres. Motorisé par un moteur Cummins QSB6.7 de 164 kW, il combine compacité structurelle et grande maniabilité, un atout pour les terminaux à espace contraint. Sa capacité de levage de 8 tonnes est calibrée pour les conteneurs vides plutôt que pour les charges pleines, ce qui permet une cadence de gerbage plus rapide et un cycle de travail optimisé. Cet engin complète la famille de matériel portuaire de XCMG aux côtés des reach stackers pour conteneurs pleins.",
+        "caracteristiques": "Capacité de levage maximale : 8 tonnes\nHauteur de levage maximale : 18 819 mm\nCapacité de gerbage : 7 niveaux\nMoteur : Cummins QSB6.7, 164 kW, couple 949 N.m\nPoids à vide : 35 405 kg\nVitesse max (vide\/en charge) : 27 km\/h\nRayon de braquage : 12 m\nVitesse de levage (vide\/en charge) : 650\/550 m\/min",
+        "typeMachine": "Gerbeur de conteneurs vides (empty container handler)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:39:29",
+        "updated_at": "2026-06-30 21:39:29"
+    },
+    {
+        "id": 12,
+        "nomProduct": "XT5517K",
+        "imgProduct": "p-xt5517k.png",
+        "description": "Le XT5517K est le chariot télescopique de XCMG combinant les fonctions d'un chariot élévateur classique avec celles d'un chargeur, capable d'effectuer des opérations de fourche, de chargement, de levage et de travail en hauteur. Sa flèche télescopique atteint 13,15 mètres de portée et permet une hauteur de levage maximale de 17,1 mètres, pour une capacité nominale de 5,5 tonnes. Conçu pour la polyvalence, il accepte plus de 30 accessoires standardisés à changement rapide et propose trois modes de direction (roues avant, quatre roues directrices, marche en crabe) pour s'adapter aux terrains accidentés des chantiers, sites industriels et zones de stockage extérieures. Certifié FOPS et ROPS, il répond aux exigences de sécurité des chantiers de construction, de l'agriculture et de l'industrie lourde.",
+        "caracteristiques": "Capacité de charge nominale : 5500 kg\nPortée maximale (extension de flèche) : 13,15 m\nHauteur de levage maximale : 17,1 m\nVitesse de déplacement maximale : 32 km\/h\nModes de direction : roues avant, 4 roues directrices, marche en crabe\nCertifications : FOPS, ROPS\nAccessoires compatibles : plus de 30, à changement rapide",
+        "typeMachine": "Chariot télescopique tout-terrain (chargeur\/manipulateur télescopique)",
+        "subCategory": 3,
+        "created_at": "2026-06-30 21:39:35",
+        "updated_at": "2026-06-30 21:39:35"
+    },
+    {
+        "id": 13,
+        "nomProduct": "XVC20-PSR-S",
+        "imgProduct": "p-xvc20-psr-s.png",
+        "description": "Le XVC20-PSR-S est un transpalette électrique conducteur porté de XCMG, pensé pour les opérations de manutention sur courtes et moyennes distances en entrepôt. Il embarque une batterie lithium à haute densité énergétique associée à un système de traction électrique efficace, permettant un fonctionnement continu sur 24 heures avec un coût énergétique inférieur de 60% à un équivalent thermique. Son rayon de braquage compact et son angle de braquage supérieur ou égal à 85° lui permettent d'évoluer dans des allées aussi étroites que 2 mètres, améliorant la maniabilité de 30% par rapport aux modèles classiques. Cet équipement illustre la stratégie de XCMG pour l'entreposage dense et la logistique intelligente, en complément de ses gammes de chariots élévateurs plus lourds.",
+        "caracteristiques": "Capacité de charge nominale : 2000 kg\nHauteur de levage maximale : 205 mm\nHauteur de fourche minimale : 85 mm\nDimensions hors tout (L\/H\/l) : 2200\/1378\/704 mm\nVitesse de déplacement (chargé\/à vide) : 6\/6 km\/h\nVitesse de levage (chargé\/à vide) : 35\/45 mm\/s\nLargeur d'allée de gerbage en angle droit : à partir de 2 m\nMotorisation : batterie lithium haute densité énergétique",
+        "typeMachine": "Transpalette électrique à conducteur accompagnant\/porté (warehouse equipment)",
+        "subCategory": 4,
+        "created_at": "2026-06-30 21:39:40",
+        "updated_at": "2026-06-30 21:39:40"
+    }
+]

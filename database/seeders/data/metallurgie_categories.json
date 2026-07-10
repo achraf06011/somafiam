@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "nomCategory": "Acier Carbone",
+        "imgCategory": "metallurgieCatgories\/carbonsteel.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 1
+    },
+    {
+        "id": 2,
+        "nomCategory": "acier inoxydable",
+        "imgCategory": "metallurgieCatgories\/stainlesssteel.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 2
+    },
+    {
+        "id": 4,
+        "nomCategory": "acier revêtu",
+        "imgCategory": "metallurgieCatgories\/coatedsteel.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 7
+    },
+    {
+        "id": 6,
+        "nomCategory": " Acier au Silicium",
+        "imgCategory": "metallurgieCatgories\/acierausilicium.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9
+    },
+    {
+        "id": 7,
+        "nomCategory": "aluminium",
+        "imgCategory": "metallurgieCatgories\/aluminium.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 3
+    },
+    {
+        "id": 8,
+        "nomCategory": " cuivre",
+        "imgCategory": "metallurgieCatgories\/copper.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 4
+    },
+    {
+        "id": 9,
+        "nomCategory": "Acier Automobile",
+        "imgCategory": "metallurgieCatgories\/automotive.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 8
+    },
+    {
+        "id": 10,
+        "nomCategory": "Acier Étainé",
+        "imgCategory": "metallurgieCatgories\/tineplate.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 10
+    },
+    {
+        "id": 11,
+        "nomCategory": "profilé",
+        "imgCategory": "metallurgieCatgories\/profilé.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 5
+    },
+    {
+        "id": 12,
+        "nomCategory": "Fixations",
+        "imgCategory": "metallurgieCatgories\/fasteners.jpg",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 11
+    }
+]

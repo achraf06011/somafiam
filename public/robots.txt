@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /storage/
+Disallow: /vendor/
+Disallow: /.env
+
+Sitemap: https://somafiam.com/sitemap.xml

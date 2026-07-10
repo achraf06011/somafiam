@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "nomCategory": "SILAGE",
+        "imgCategory": "agricultureCatgories\/agbag.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 5
+    },
+    {
+        "id": 2,
+        "nomCategory": "TONDEUSE – RÉCOLTEUSE",
+        "imgCategory": "agricultureCatgories\/mower-7956264_1280.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 4
+    },
+    {
+        "id": 3,
+        "nomCategory": "EMBALLAGE – BALLE",
+        "imgCategory": "agricultureCatgories\/heuballe_silage_cattle_feed_hay_feed_stock_agriculture_packed_bale-490638.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 8
+    },
+    {
+        "id": 4,
+        "nomCategory": "ALIMENTATION",
+        "imgCategory": "agricultureCatgories\/P1160424OK.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 7
+    },
+    {
+        "id": 5,
+        "nomCategory": "ENGRAIS",
+        "imgCategory": "agricultureCatgories\/celagri-bio-engrais-scaled.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 3
+    },
+    {
+        "id": 6,
+        "nomCategory": "PULVÉRISATEUR",
+        "imgCategory": "agricultureCatgories\/10839737.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 2
+    },
+    {
+        "id": 7,
+        "nomCategory": "FUMIER",
+        "imgCategory": "agricultureCatgories\/actu_-_tas_de_fumier_ok.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9
+    },
+    {
+        "id": 8,
+        "nomCategory": "FERME",
+        "imgCategory": "agricultureCatgories\/886637-la-ferme-de-viltain-la-cueillette-de-viltain-image00010.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 10
+    },
+    {
+        "id": 9,
+        "nomCategory": "TRAITE – PRODUITS LAITIERS",
+        "imgCategory": "agricultureCatgories\/traitement-des-produits-laitiers.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 6
+    },
+    {
+        "id": 10,
+        "nomCategory": "PRÉPARATIONS DU SOL",
+        "imgCategory": "agricultureCatgories\/predsetove-kombinatory-03.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 1
+    },
+    {
+        "id": 11,
+        "nomCategory": "ÉQUIPEMENT",
+        "imgCategory": "agricultureCatgories\/outils-de-jardinage-dans-le-hangar-équipement-agricole-d-la-ferme-concept-outil-fond-en-bois-127503909.png",
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 11
+    }
+]

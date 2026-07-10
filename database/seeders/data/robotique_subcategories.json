@@ -1,0 +1,252 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "Projets technologiques innovants",
+        "imgSubCategory": "robotique\/images\/liste1.jpg",
+        "description": "Partenaire industriel des innovateurs, SOMAFIAM S.A vous accompagne de l'idée à la fabrication en série d'équipements.",
+        "category": 1,
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "Fabrication d équipements en série",
+        "imgSubCategory": "robotique\/images\/liste2.jpg",
+        "description": "L'efficience industrielle est notre métier, nous nous chargeons de la fabrication en série des équipements destinés à vos clients.",
+        "category": 1,
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nomSubCategory": "Robotisation et Cobotisation",
+        "imgSubCategory": "robotique\/images\/liste3.jpg",
+        "description": "Fort d'un savoir-faire reconnu en intégration robotique multimarque, SOMAFIAM S.A conçoit et réalise des cellules robotisées ou collaboratives.",
+        "category": 1,
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "Cellule d assemblage flexible",
+        "imgSubCategory": "robotique\/images\/liste4.jpg",
+        "description": "Nos solutions d'assemblage ouvrent une nouvelle voie dans l'automatisation des petites et moyennes séries.",
+        "category": 1,
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomSubCategory": "Machine spéciale de production sur-mesure",
+        "imgSubCategory": "robotique\/images\/liste5.jpg",
+        "description": "Passionnés par la technologie, nous concevons et réalisons des équipements de pointe et machines spéciales, partout où les solutions standards ne conviennent pas.",
+        "category": 1,
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "nomSubCategory": "Projets technologiques innovants",
+        "imgSubCategory": "robotique\/images\/liste1.jpg",
+        "description": "Partenaire industriel des innovateurs, SOMAFIAM S.A vous accompagne de l'idée à la fabrication en série d'équipements.",
+        "category": 2,
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "nomSubCategory": "Fabrication d équipements en série",
+        "imgSubCategory": "robotique\/images\/liste2.jpg",
+        "description": "L'efficience industrielle est notre métier, nous nous chargeons de la fabrication en série des équipements destinés à vos clients.",
+        "category": 2,
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "nomSubCategory": "Robotisation et Cobotisation",
+        "imgSubCategory": "robotique\/images\/liste3.jpg",
+        "description": "Fort d'un savoir-faire reconnu en intégration robotique multimarque, SOMAFIAM S.A conçoit et réalise des cellules robotisées ou collaboratives.",
+        "category": 2,
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "nomSubCategory": "Cellule d assemblage flexible",
+        "imgSubCategory": "robotique\/images\/liste4.jpg",
+        "description": "Nos solutions d'assemblage ouvrent une nouvelle voie dans l'automatisation des petites et moyennes séries.",
+        "category": 2,
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "nomSubCategory": "Machine spéciale de production sur-mesure",
+        "imgSubCategory": "robotique\/images\/liste5.jpg",
+        "description": "Passionnés par la technologie, nous concevons et réalisons des équipements de pointe et machines spéciales, partout où les solutions standards ne conviennent pas.",
+        "category": 2,
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "nomSubCategory": "Projets technologiques innovants",
+        "imgSubCategory": "robotique\/images\/liste1.jpg",
+        "description": "Partenaire industriel des innovateurs, SOMAFIAM S.A vous accompagne de l'idée à la fabrication en série d'équipements.",
+        "category": 3,
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "nomSubCategory": "Fabrication d équipements en série",
+        "imgSubCategory": "robotique\/images\/liste2.jpg",
+        "description": "L'efficience industrielle est notre métier, nous nous chargeons de la fabrication en série des équipements destinés à vos clients.",
+        "category": 3,
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "nomSubCategory": "Robotisation et Cobotisation",
+        "imgSubCategory": "robotique\/images\/liste3.jpg",
+        "description": "Fort d'un savoir-faire reconnu en intégration robotique multimarque, SOMAFIAM S.A conçoit et réalise des cellules robotisées ou collaboratives.",
+        "category": 3,
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "nomSubCategory": "Cellule d assemblage flexible",
+        "imgSubCategory": "robotique\/images\/liste4.jpg",
+        "description": "Nos solutions d'assemblage ouvrent une nouvelle voie dans l'automatisation des petites et moyennes séries.",
+        "category": 3,
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "nomSubCategory": "Machine spéciale de production sur-mesure",
+        "imgSubCategory": "robotique\/images\/liste5.jpg",
+        "description": "Passionnés par la technologie, nous concevons et réalisons des équipements de pointe et machines spéciales, partout où les solutions standards ne conviennent pas.",
+        "category": 3,
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "nomSubCategory": "Projets technologiques innovants",
+        "imgSubCategory": "robotique\/images\/liste1.jpg",
+        "description": "Partenaire industriel des innovateurs, SOMAFIAM S.A vous accompagne de l'idée à la fabrication en série d'équipements.",
+        "category": 4,
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "nomSubCategory": "Fabrication d équipements en série",
+        "imgSubCategory": "robotique\/images\/liste2.jpg",
+        "description": "L'efficience industrielle est notre métier, nous nous chargeons de la fabrication en série des équipements destinés à vos clients.",
+        "category": 4,
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "nomSubCategory": "Robotisation et Cobotisation",
+        "imgSubCategory": "robotique\/images\/liste3.jpg",
+        "description": "Fort d'un savoir-faire reconnu en intégration robotique multimarque, SOMAFIAM S.A conçoit et réalise des cellules robotisées ou collaboratives.",
+        "category": 4,
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "nomSubCategory": "Cellule d assemblage flexible",
+        "imgSubCategory": "robotique\/images\/liste4.jpg",
+        "description": "Nos solutions d'assemblage ouvrent une nouvelle voie dans l'automatisation des petites et moyennes séries.",
+        "category": 4,
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "nomSubCategory": "Machine spéciale de production sur-mesure",
+        "imgSubCategory": "robotique\/images\/liste5.jpg",
+        "description": "Passionnés par la technologie, nous concevons et réalisons des équipements de pointe et machines spéciales, partout où les solutions standards ne conviennent pas.",
+        "category": 4,
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "nomSubCategory": "Projets technologiques innovants",
+        "imgSubCategory": "robotique\/images\/liste1.jpg",
+        "description": "Partenaire industriel des innovateurs, SOMAFIAM S.A vous accompagne de l'idée à la fabrication en série d'équipements.",
+        "category": 5,
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "nomSubCategory": "Fabrication d équipements en série",
+        "imgSubCategory": "robotique\/images\/liste2.jpg",
+        "description": "L'efficience industrielle est notre métier, nous nous chargeons de la fabrication en série des équipements destinés à vos clients.",
+        "category": 5,
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "nomSubCategory": "Robotisation et Cobotisation",
+        "imgSubCategory": "robotique\/images\/liste3.jpg",
+        "description": "Fort d'un savoir-faire reconnu en intégration robotique multimarque, SOMAFIAM S.A conçoit et réalise des cellules robotisées ou collaboratives.",
+        "category": 5,
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "nomSubCategory": "Cellule d assemblage flexible",
+        "imgSubCategory": "robotique\/images\/liste4.jpg",
+        "description": "Nos solutions d'assemblage ouvrent une nouvelle voie dans l'automatisation des petites et moyennes séries.",
+        "category": 5,
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "nomSubCategory": "Machine spéciale de production sur-mesure",
+        "imgSubCategory": "robotique\/images\/liste5.jpg",
+        "description": "Passionnés par la technologie, nous concevons et réalisons des équipements de pointe et machines spéciales, partout où les solutions standards ne conviennent pas.",
+        "category": 5,
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    }
+]

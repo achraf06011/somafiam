@@ -1,0 +1,251 @@
+[21-Oct-2024 12:33:04 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:33:04 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:36:00 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:36:00 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:36:02 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:36:02 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:37:50 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:37:50 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:39:20 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:39:20 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:46:55 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:46:55 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:58 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:47:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:50:48 Africa/Casablanca] PHP Parse error:  syntax error, unexpected end of file in /home/somafiam/public_html/index.php on line 18
+[21-Oct-2024 12:56:29 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 12:56:29 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 15:00:59 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 15:00:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 13
+[21-Oct-2024 16:11:11 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/somafiamApp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/somafiamApp/index.php on line 13
+[21-Oct-2024 16:11:11 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/somafiamApp/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/somafiamApp/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/somafiamApp/index.php on line 13
+[21-Oct-2024 16:11:17 Africa/Casablanca] PHP Warning:  require(/home/somafiam/public_html/somafiamApp/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/somafiamApp/index.php on line 13
+[21-Oct-2024 16:11:17 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/somafiamApp/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/somafiamApp/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/somafiamApp/index.php on line 13
+[21-Oct-2024 16:11:35 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/somafiamApp/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/somafiamApp/index.php on line 16
+[21-Oct-2024 16:11:35 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/somafiamApp/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/somafiamApp/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/somafiamApp/index.php on line 16
+[21-Oct-2024 16:12:15 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:15 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:20 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:20 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:22 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:22 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:26 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:26 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:27 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:12:27 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:13:44 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:13:44 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:13:48 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:13:48 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:14:50 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:14:50 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:10 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:10 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:12 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:12 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:15 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:15 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:37 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:37 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:16:38 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:17:00 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:17:00 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:32 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:32 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:47 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:47 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:59 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:18:59 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:19:00 Africa/Casablanca] PHP Warning:  require_once(/home/somafiam/public_html/../bootstrap/app.php): Failed to open stream: No such file or directory in /home/somafiam/public_html/index.php on line 16
+[21-Oct-2024 16:19:00 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Failed opening required '/home/somafiam/public_html/../bootstrap/app.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/somafiam/public_html/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/index.php on line 16

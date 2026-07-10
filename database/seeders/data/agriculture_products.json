@@ -1,0 +1,956 @@
+[
+    {
+        "id": 1,
+        "nomProduct": "Broyeur de maïs à une rangée",
+        "imgProduct": "Single-Row-Maize-Chopper-1.png",
+        "description": "Largeur de travail  700 millimètres \/Nombre de couteaux   12 pièces\/ Nombre de tambours d'alimentation 2 pièces  ",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomProduct": "Broyeur de fourrage – Maïs indépendant des rangs",
+        "imgProduct": "2-Row-Independent-Maize-Chopper2.jpg",
+        "description": ".",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nomProduct": "Broyeur de maïs stationnaire",
+        "imgProduct": "Stationary_maize_chopper-1.png",
+        "description": "",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomProduct": "Ensileuses",
+        "imgProduct": "Forage-harvester-800x600-1.png",
+        "description": "",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomProduct": "Ensileuse à double coupe",
+        "imgProduct": "800x600-1.jpg",
+        "description": "",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "nomProduct": "Broyeur à fléaux",
+        "imgProduct": "Flail_mulcher_1.png",
+        "description": "",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "nomProduct": "Tondeuse à tambour rotatif",
+        "imgProduct": "mower-1.png",
+        "description": "",
+        "subCategory": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "nomProduct": "Tondeuse à tambour de type jardin",
+        "imgProduct": "600x600-Kopya.png",
+        "description": "",
+        "subCategory": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "nomProduct": "Faucheuse à disques",
+        "imgProduct": "disc-mower-2.png",
+        "description": "",
+        "subCategory": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "nomProduct": "Faucheuse à disques conditionneuse",
+        "imgProduct": "Conditioner-disc-mower-1.png",
+        "description": "",
+        "subCategory": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "nomProduct": "Tondeuse à barre de faucille",
+        "imgProduct": "Sickle-bar-mower-800x600-1.png",
+        "description": "",
+        "subCategory": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "nomProduct": "Râteau à roues",
+        "imgProduct": "Wheel-Rakes-1.png",
+        "description": "",
+        "subCategory": 4,
+        "created_at": "2024-08-05 12:38:47",
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "nomProduct": "Râteau rotatif",
+        "imgProduct": "Rotary-Rake-1.png",
+        "description": "",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "nomProduct": "Râteau de type V",
+        "imgProduct": "V-Type-Rake-1.png",
+        "description": "",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "nomProduct": "Sugar Beet Harvester",
+        "imgProduct": "Sugar-beet-harvester-800x600-1.jpg",
+        "description": "",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "nomProduct": "Batteuse polyvalente",
+        "imgProduct": "600x600.jpg",
+        "description": "",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "nomProduct": "Ascenseur simple de batteuse mobile",
+        "imgProduct": "600x600-1.jpg",
+        "description": "",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "nomProduct": "Batteuse de céréales",
+        "imgProduct": "600x600-2.jpg",
+        "description": "",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "nomProduct": "Cacahuète creuser et retourner",
+        "imgProduct": "800x600.jpg",
+        "description": "",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "nomProduct": "Machine d'emballage compacte",
+        "imgProduct": "Compact-Packing-Machine-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "nomProduct": "Machine d'emballage modulaire",
+        "imgProduct": "Modular-Packing-Machine1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 39,
+        "nomProduct": "Machine d'emballage simple de base",
+        "imgProduct": "Base-Single-Packing-Machine-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 42,
+        "nomProduct": "Machine d'emballage double base",
+        "imgProduct": "Base-Double-Packing-Machine-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 44,
+        "nomProduct": "Machine d'emballage de type bunker",
+        "imgProduct": "Bunker-Type-Packing-Machine-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 46,
+        "nomProduct": "Eco – Machine d'emballage de type ferme",
+        "imgProduct": "Eco-Farm-Type-Packing-Machine-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 47,
+        "nomProduct": "Machine d'emballage de type tunnel",
+        "imgProduct": "600x6002.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 50,
+        "nomProduct": "Machine d'emballage de céréales",
+        "imgProduct": "Grain-Packing-Machine-800x600-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 52,
+        "nomProduct": "Unité d'emballage portable",
+        "imgProduct": "Portable-Packing-Unit-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 57,
+        "nomProduct": "Unité de pinces à vide",
+        "imgProduct": "Vacuum-Clips-Unit-1.png",
+        "description": "",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 59,
+        "nomProduct": "Mélangeur d'alimentation horizontal",
+        "imgProduct": "Horizontal-Feed-Mixer-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 61,
+        "nomProduct": "Presse à balles rondes et enrubanneuse",
+        "imgProduct": "Round-Baler-Wrapper-1.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 62,
+        "nomProduct": "Presse à balles carrées à double compression",
+        "imgProduct": "Double-Compression-Square-Baler-1.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 63,
+        "nomProduct": "Empileur de balles",
+        "imgProduct": "bale-stacker-fleming.webp",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 65,
+        "nomProduct": "Presse à foin",
+        "imgProduct": "Hay-Press-Machine-800x600-2.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 66,
+        "nomProduct": "Presse à balles rondes",
+        "imgProduct": "Round_baler_800x600.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 68,
+        "nomProduct": "Presse à balles carrées",
+        "imgProduct": "Square-Baler-800x600-1.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 69,
+        "nomProduct": "Enrubanneuse de balles",
+        "imgProduct": "bale-wrapper-kuhn.webp",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 70,
+        "nomProduct": "Attachement de balle",
+        "imgProduct": "Bale-Attachment-1.png",
+        "description": "",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 71,
+        "nomProduct": "Mélangeur de poudre de type horizontal",
+        "imgProduct": "Horizontal-Type-Powder-Mixer-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 72,
+        "nomProduct": "Mélangeur à alimentation verticale",
+        "imgProduct": "600x600-2.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 73,
+        "nomProduct": "Mélangeur d'alimentation sur rail",
+        "imgProduct": "Rail-Feed-Mixer-2.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 74,
+        "nomProduct": "Broyeur et mélangeur d'aliments avec dosage",
+        "imgProduct": "Feed-Grinder-Mixer-With-Dosaging-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 75,
+        "nomProduct": "Concasseur de balles",
+        "imgProduct": "Bale-Crusher-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 76,
+        "nomProduct": "Concasseur d'aliments",
+        "imgProduct": "Feed-Crusher-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 77,
+        "nomProduct": "Broyeur d'aliments",
+        "imgProduct": "Feed-Grinder-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 78,
+        "nomProduct": "Grape Crusher",
+        "imgProduct": "Grape-Crusher-1.png",
+        "description": "",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 80,
+        "nomProduct": "Épandeur d'engrais à disque unique",
+        "imgProduct": "600x6003.png",
+        "description": "",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 81,
+        "nomProduct": "Épandeur d'engrais double disque",
+        "imgProduct": "Fertilizer-Spreader-Double-Disc-1.png",
+        "description": "",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 82,
+        "nomProduct": "Type conique d'épandeur d'engrais",
+        "imgProduct": "Fertilizer-Spreader-Conic-Type-1.png",
+        "description": "",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 83,
+        "nomProduct": "Épandeur d'engrais type traîné à double disque",
+        "imgProduct": "Fertilizer-Spreader-Double-Disc-Trail-Type-1.png",
+        "description": "",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 85,
+        "nomProduct": "Lève-Big Bag",
+        "imgProduct": "Bag-Lifter-1.png",
+        "description": "",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 86,
+        "nomProduct": "Type monté sur pulvérisateur",
+        "imgProduct": "Field-Sprayer-Mounted-Type-1.png",
+        "description": "",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 87,
+        "nomProduct": "Pulvérisateur traîné",
+        "imgProduct": "Field-Sprayer-Trailed-Type-1.png",
+        "description": "",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 88,
+        "nomProduct": "Turbo Atomiseur",
+        "imgProduct": "Turbo-Atomizer-1.png",
+        "description": "",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 92,
+        "nomProduct": "Épandeur de fumier solide",
+        "imgProduct": "Solid-Manure-Spreader-800x600-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 93,
+        "nomProduct": "Épandeur de fumier liquide",
+        "imgProduct": "Liquid-Manure-Spreader-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 95,
+        "nomProduct": "Retourneur de compost",
+        "imgProduct": "600x600-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 96,
+        "nomProduct": "Retourneur d'andains automoteur",
+        "imgProduct": "Self-propelled-windrow-turner-600x600-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 97,
+        "nomProduct": "Grattoir à fumier",
+        "imgProduct": "Manure-Scrapper-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 98,
+        "nomProduct": "Séparateur de fumier",
+        "imgProduct": "Manure-Seperator-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 99,
+        "nomProduct": "Pompe à fumier submersible",
+        "imgProduct": "Submersible-Manure-Pump-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 101,
+        "nomProduct": "Mélangeur de fumier submersible",
+        "imgProduct": "Submersible-Manure-Mixer-1.png",
+        "description": "",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 102,
+        "nomProduct": "Verrouillage de la tête",
+        "imgProduct": "Head-lock-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 103,
+        "nomProduct": "Étal d'alimentation",
+        "imgProduct": "Feed-Stall-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 105,
+        "nomProduct": "Brosse à vache",
+        "imgProduct": "Cow-Brush-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 107,
+        "nomProduct": "Tapis en caoutchouc de vache",
+        "imgProduct": "Cow-Rubber-Mat-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 108,
+        "nomProduct": "Abreuvoir basculant",
+        "imgProduct": "Tipping-Water-Trough.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 110,
+        "nomProduct": "Abreuvoir flottant\r\n\r\n",
+        "imgProduct": "Float-Water-Bowl-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 111,
+        "nomProduct": "Abreuvoir flottant en plastique",
+        "imgProduct": "Plastic-Float-Water-Bowl-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 112,
+        "nomProduct": "Abreuvoir de coulée",
+        "imgProduct": "Casting-Water-Bowl-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 113,
+        "nomProduct": "Abreuvoir antigel",
+        "imgProduct": "Nonfreezing-Water-Bowl-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 115,
+        "nomProduct": "Unité de soins pour le bétail",
+        "imgProduct": "Cattle-Crush-Care-Unit-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 117,
+        "nomProduct": "Échelle animale",
+        "imgProduct": "hayvanbaskulu-800x600-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 118,
+        "nomProduct": "Ventilateur de ferme",
+        "imgProduct": "Farm-Fan-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 119,
+        "nomProduct": "Auge désinfectante",
+        "imgProduct": "Disinfectan-Trough-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 120,
+        "nomProduct": "Clapier à veaux",
+        "imgProduct": "Calf-Hutch-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 121,
+        "nomProduct": "Extracteur de mollets",
+        "imgProduct": "Calf-Born-Apparatus-1.png",
+        "description": "",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 122,
+        "nomProduct": "Distributeur de lait et d'aliments mobiles",
+        "imgProduct": "Milk_feed_distributor_mobile_6-scaled.png",
+        "description": "",
+        "subCategory": 13,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 123,
+        "nomProduct": "Machine à traire",
+        "imgProduct": "Milking-Machine-1.png",
+        "description": "",
+        "subCategory": 13,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 124,
+        "nomProduct": "Dent d'essieu pour semoir à céréales",
+        "imgProduct": "600x6004.png",
+        "description": "",
+        "subCategory": 14,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 125,
+        "nomProduct": "Semoir à céréales",
+        "imgProduct": "seed_drill_1-min-1.png",
+        "description": "",
+        "subCategory": 14,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 126,
+        "nomProduct": "Jardinière à disque à cadre fixe",
+        "imgProduct": "Fixed-frame-disc-type-planter-800x600-1.png",
+        "description": "",
+        "subCategory": 14,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 129,
+        "nomProduct": "Semoir de pommes de terre",
+        "imgProduct": "Potato-Seeder-600x600-1.png",
+        "description": "",
+        "subCategory": 14,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 130,
+        "nomProduct": "Lourd – Déchaumeur à disques traîné",
+        "imgProduct": "heavy_trailed_disc_harrow_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 131,
+        "nomProduct": "Variante compacte",
+        "imgProduct": "compact_variant_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 132,
+        "nomProduct": "Herse multi-disques indépendante",
+        "imgProduct": "independent_multi_disc_harrow_2-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 133,
+        "nomProduct": "Herse multi-disques indépendante traînée",
+        "imgProduct": "trailed_multi_disc_harrow_2-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 134,
+        "nomProduct": "Herse à disques multiples Hydro Independent",
+        "imgProduct": "hydro_independent_multi_disc_harrow_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 135,
+        "nomProduct": "Herse à disques multiples indépendante du ressort",
+        "imgProduct": "spring_multi_disc_harrow_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 136,
+        "nomProduct": "Déchaumeur à disques traîné – porté",
+        "imgProduct": "trailed_mounted_disc_harrow_2-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 137,
+        "nomProduct": "Cultivateur à 2 rangs à ressort",
+        "imgProduct": "spring_combine_2_row_cultivator_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 138,
+        "nomProduct": "Cultivateur à 3 rangs à ressort",
+        "imgProduct": "spring_combine_3_row_cultivator_2-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 139,
+        "nomProduct": "Cultivateur hydropneumatique",
+        "imgProduct": "hydro_pneumatic_cultivator_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 140,
+        "nomProduct": "Cultivateur à ressort lourd",
+        "imgProduct": "heavy_spring_cultivator_1-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 141,
+        "nomProduct": "Rouleau traîné en acier moulé monté",
+        "imgProduct": "trailed_mounted_cast_steel_roller_1-min-1.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 143,
+        "nomProduct": "Rouleau en acier moulé hydro",
+        "imgProduct": "hydro_cast_steel_roller_1-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 144,
+        "nomProduct": "Rouleau en acier à disque de rouleau avant",
+        "imgProduct": "fore_roller_disc_steel_roller_1-min.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 145,
+        "nomProduct": "Cultivateur de cultures en rangées à châssis fixe",
+        "imgProduct": "Fixed-Frame-Row-Crop-Cultivator.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 146,
+        "nomProduct": "Charrue à disque",
+        "imgProduct": "Disc-Plough.png",
+        "description": "",
+        "subCategory": 15,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 147,
+        "nomProduct": "Remorque à double essieu",
+        "imgProduct": "Double-axle-trailer-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 148,
+        "nomProduct": "Remorque à un essieu",
+        "imgProduct": "Single-Axle-Trailer-1-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 149,
+        "nomProduct": "Remorque d'ensilage",
+        "imgProduct": "Silage-Trailer-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 154,
+        "nomProduct": "Niveleur de terrain laser",
+        "imgProduct": "Laser-Land-Leveler-600x800-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 156,
+        "nomProduct": "Chargeur de balles",
+        "imgProduct": "Bale-Loader-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 157,
+        "nomProduct": "Attachement de balle",
+        "imgProduct": "Bale-Attachment-1-1.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 159,
+        "nomProduct": "Défaceur d'ensilage",
+        "imgProduct": "Silage_defacer.png",
+        "description": "",
+        "subCategory": 16,
+        "created_at": null,
+        "updated_at": null
+    }
+]

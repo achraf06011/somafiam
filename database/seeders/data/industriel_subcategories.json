@@ -1,0 +1,1954 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "Accouplements mécaniques",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 1
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "Couples coniques à denture droite",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 2
+    },
+    {
+        "id": 3,
+        "nomSubCategory": "Engrenages cylindriques à denture droite",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 3
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "Crémaillères",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 4
+    },
+    {
+        "id": 5,
+        "nomSubCategory": "Courroies",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 5
+    },
+    {
+        "id": 6,
+        "nomSubCategory": "Plaques de jonction",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 6
+    },
+    {
+        "id": 7,
+        "nomSubCategory": "Barreaux",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 7
+    },
+    {
+        "id": 8,
+        "nomSubCategory": "Poulies Polychain GT",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 8
+    },
+    {
+        "id": 9,
+        "nomSubCategory": "Poulies synchrones HTD",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9
+    },
+    {
+        "id": 10,
+        "nomSubCategory": "Poulies synchrones au pas métrique",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 10
+    },
+    {
+        "id": 11,
+        "nomSubCategory": "Poulies synchrones en pouces",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 11
+    },
+    {
+        "id": 12,
+        "nomSubCategory": "Poulies trapézoïdales",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 12
+    },
+    {
+        "id": 13,
+        "nomSubCategory": "Poulies Poly-V",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 13
+    },
+    {
+        "id": 14,
+        "nomSubCategory": "Poulies variables à l'arrêt",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 14
+    },
+    {
+        "id": 15,
+        "nomSubCategory": "Disques ",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 15
+    },
+    {
+        "id": 16,
+        "nomSubCategory": "Disques doubles pour 2 chaines simples",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 16
+    },
+    {
+        "id": 17,
+        "nomSubCategory": "Pignons ",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 17
+    },
+    {
+        "id": 18,
+        "nomSubCategory": "Roues fonte",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 18
+    },
+    {
+        "id": 19,
+        "nomSubCategory": "Frettes de serrage",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 19
+    },
+    {
+        "id": 20,
+        "nomSubCategory": "Moyeux amovibles",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 20
+    },
+    {
+        "id": 21,
+        "nomSubCategory": "Plateaux à boulonner",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 21
+    },
+    {
+        "id": 22,
+        "nomSubCategory": "Vis pour moyeux amovibles ",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 22
+    },
+    {
+        "id": 23,
+        "nomSubCategory": "Systèmes de tension",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 23
+    },
+    {
+        "id": 24,
+        "nomSubCategory": "Bagues d'étanchéité",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 24
+    },
+    {
+        "id": 25,
+        "nomSubCategory": "Joints toriques (O-rings)",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 25
+    },
+    {
+        "id": 26,
+        "nomSubCategory": "Joints spiralés",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 26
+    },
+    {
+        "id": 27,
+        "nomSubCategory": "Feuilles de joint",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 27
+    },
+    {
+        "id": 28,
+        "nomSubCategory": "Tresses",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 28
+    },
+    {
+        "id": 201,
+        "nomSubCategory": "Condensateurs de puissance",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 16
+    },
+    {
+        "id": 202,
+        "nomSubCategory": "Condensateurs pour énergies renouvelables",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 17
+    },
+    {
+        "id": 203,
+        "nomSubCategory": "Condensateurs pour appareils de consommation",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 18
+    },
+    {
+        "id": 204,
+        "nomSubCategory": "Installations industrielles",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 1
+    },
+    {
+        "id": 205,
+        "nomSubCategory": "Installations de bâtiments",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 2
+    },
+    {
+        "id": 206,
+        "nomSubCategory": "Appareils de mesure universels",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 7
+    },
+    {
+        "id": 207,
+        "nomSubCategory": "Compteurs d'énergie",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 8
+    },
+    {
+        "id": 208,
+        "nomSubCategory": "Convertisseurs de communication",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9
+    },
+    {
+        "id": 209,
+        "nomSubCategory": "Dispositifs de synchronisation",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 10
+    },
+    {
+        "id": 210,
+        "nomSubCategory": "Appareils de mesure analogiques",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 11
+    },
+    {
+        "id": 211,
+        "nomSubCategory": "Appareils de mesure portables",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 12
+    },
+    {
+        "id": 212,
+        "nomSubCategory": "Compteurs horaires et d'impulsions",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 13
+    },
+    {
+        "id": 213,
+        "nomSubCategory": "Transformateurs de mesure de courant",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 14
+    },
+    {
+        "id": 214,
+        "nomSubCategory": "Logiciel",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 15
+    },
+    {
+        "id": 215,
+        "nomSubCategory": "Relais de protection et commande",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 3
+    },
+    {
+        "id": 216,
+        "nomSubCategory": "Automatisation et SCADA",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 4
+    },
+    {
+        "id": 217,
+        "nomSubCategory": "Équipements de communication système",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 5
+    },
+    {
+        "id": 218,
+        "nomSubCategory": "Logiciel",
+        "category": 202,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 6
+    },
+    {
+        "id": 219,
+        "nomSubCategory": "Câbles Puissance Basse Tension BT",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 219
+    },
+    {
+        "id": 224,
+        "nomSubCategory": "Transformateurs à Huile Immergée",
+        "category": 214,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 224
+    },
+    {
+        "id": 226,
+        "nomSubCategory": "Pompe Rotative Axiale.",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 226
+    },
+    {
+        "id": 227,
+        "nomSubCategory": "Pompes Centrifuge. ",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 227
+    },
+    {
+        "id": 228,
+        "nomSubCategory": "pompes auto amorçant",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 228
+    },
+    {
+        "id": 229,
+        "nomSubCategory": "Pompes à Vide.",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 229
+    },
+    {
+        "id": 230,
+        "nomSubCategory": "pompes volumétriques.",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 230
+    },
+    {
+        "id": 231,
+        "nomSubCategory": "Pompes à membranes.",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 231
+    },
+    {
+        "id": 232,
+        "nomSubCategory": "Pompes Doseuse",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 232
+    },
+    {
+        "id": 233,
+        "nomSubCategory": "Pompes péristaltiques.",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 233
+    },
+    {
+        "id": 234,
+        "nomSubCategory": "Groupes de surpression",
+        "category": 216,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 234
+    },
+    {
+        "id": 301,
+        "nomSubCategory": "Vannes monobloc et sectionnelles",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 301
+    },
+    {
+        "id": 302,
+        "nomSubCategory": "Vannes logiques",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 302
+    },
+    {
+        "id": 303,
+        "nomSubCategory": "Soupapes de surpression",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 303
+    },
+    {
+        "id": 304,
+        "nomSubCategory": "Réducteurs de pression",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 304
+    },
+    {
+        "id": 305,
+        "nomSubCategory": "Soupapes de surpression\/réduction de pression",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 305
+    },
+    {
+        "id": 307,
+        "nomSubCategory": "Vannes de déchargement",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 307
+    },
+    {
+        "id": 308,
+        "nomSubCategory": "Vannes d'équilibrage",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 308
+    },
+    {
+        "id": 309,
+        "nomSubCategory": "Papillons des gaz",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 309
+    },
+    {
+        "id": 310,
+        "nomSubCategory": "Clapets anti-retour",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 310
+    },
+    {
+        "id": 311,
+        "nomSubCategory": "Vannes de régulation de débit",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 311
+    },
+    {
+        "id": 312,
+        "nomSubCategory": "Clapets anti-retour pilotés (serrure hydraulique)",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 312
+    },
+    {
+        "id": 314,
+        "nomSubCategory": "Vannes à bille",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 314
+    },
+    {
+        "id": 315,
+        "nomSubCategory": "Autres types",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 315
+    },
+    {
+        "id": 316,
+        "nomSubCategory": "Embases CETOP\/autres types",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 316
+    },
+    {
+        "id": 320,
+        "nomSubCategory": "Pompes",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 320
+    },
+    {
+        "id": 321,
+        "nomSubCategory": "Moteurs",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 321
+    },
+    {
+        "id": 322,
+        "nomSubCategory": "Filters ",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 322
+    },
+    {
+        "id": 327,
+        "nomSubCategory": "Vannes et électrovannes (Distribution d'air)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 327
+    },
+    {
+        "id": 328,
+        "nomSubCategory": "Accessories (Distribution d'air)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 328
+    },
+    {
+        "id": 329,
+        "nomSubCategory": "Vannes et collecteurs d'électrovannes (Distribution d'air)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 329
+    },
+    {
+        "id": 330,
+        "nomSubCategory": "Palier de roulement - Paliers",
+        "category": 304,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 330
+    },
+    {
+        "id": 331,
+        "nomSubCategory": "Roulement de palier - Paliers",
+        "category": 304,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 331
+    },
+    {
+        "id": 332,
+        "nomSubCategory": "Accessoires de paliers fonte 2 parties - Paliers",
+        "category": 304,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 332
+    },
+    {
+        "id": 333,
+        "nomSubCategory": "Capots - Paliers",
+        "category": 304,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 333
+    },
+    {
+        "id": 334,
+        "nomSubCategory": "Manchons - Paliers",
+        "category": 304,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 334
+    },
+    {
+        "id": 335,
+        "nomSubCategory": "Roulements à 1 rangée de billes - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 335
+    },
+    {
+        "id": 336,
+        "nomSubCategory": "Roulements à 1 rangée de billes à contact oblique - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 336
+    },
+    {
+        "id": 337,
+        "nomSubCategory": "Roulements à 2 rangées de billes - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 337
+    },
+    {
+        "id": 338,
+        "nomSubCategory": "Roulements à 2 rangées de billes à contact oblique - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 338
+    },
+    {
+        "id": 339,
+        "nomSubCategory": "Butées à billes - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 339
+    },
+    {
+        "id": 340,
+        "nomSubCategory": "Butées à rouleaux sphériques - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 340
+    },
+    {
+        "id": 341,
+        "nomSubCategory": "Roulements à rouleaux cylindriques - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 341
+    },
+    {
+        "id": 342,
+        "nomSubCategory": "Roulements à rouleaux coniques - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 342
+    },
+    {
+        "id": 343,
+        "nomSubCategory": "Roulements à rouleaux sphériques - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 343
+    },
+    {
+        "id": 344,
+        "nomSubCategory": "Roulements à rouleaux toroïdaux - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 344
+    },
+    {
+        "id": 345,
+        "nomSubCategory": "Roulements de précision - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 345
+    },
+    {
+        "id": 346,
+        "nomSubCategory": "Cartouches de roulements de précision - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 346
+    },
+    {
+        "id": 347,
+        "nomSubCategory": "Roulements à rotule sur billes - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 347
+    },
+    {
+        "id": 348,
+        "nomSubCategory": "Roulements magneto - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 348
+    },
+    {
+        "id": 349,
+        "nomSubCategory": "Roulements agricoles - Roulements",
+        "category": 303,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 349
+    },
+    {
+        "id": 352,
+        "nomSubCategory": "Accumulateurs à vessie",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 352
+    },
+    {
+        "id": 353,
+        "nomSubCategory": "accumulateurs à membrane",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 353
+    },
+    {
+        "id": 354,
+        "nomSubCategory": "Vannes à cartouche",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 354
+    },
+    {
+        "id": 355,
+        "nomSubCategory": "Vannes de séquence de pression",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 355
+    },
+    {
+        "id": 356,
+        "nomSubCategory": "Flexibles et tuyaux hydrauliques",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 356
+    },
+    {
+        "id": 360,
+        "nomSubCategory": "Accumulateurs à piston\r\n\r\n",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 360
+    },
+    {
+        "id": 361,
+        "nomSubCategory": "Équipements de soutien",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 361
+    },
+    {
+        "id": 362,
+        "nomSubCategory": "Ensemble de préchargement et unité de précharge mobile",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 362
+    },
+    {
+        "id": 363,
+        "nomSubCategory": "Systèmes hydrauliques",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 363
+    },
+    {
+        "id": 364,
+        "nomSubCategory": "Unités de service aérien (Unités de service aérien)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 364
+    },
+    {
+        "id": 365,
+        "nomSubCategory": "Technologie proportionnelle (Unités de service aérien)\r\n\r\n\r\n\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 365
+    },
+    {
+        "id": 366,
+        "nomSubCategory": "Pressure booster (Unités de service aérien)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 366
+    },
+    {
+        "id": 367,
+        "nomSubCategory": "Vérins avec tige de piston selon norme(Actionnement pneumatique)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 367
+    },
+    {
+        "id": 368,
+        "nomSubCategory": "Vérins avec tige de piston non conforme à la norme (Actionnement pneumatique)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 368
+    },
+    {
+        "id": 369,
+        "nomSubCategory": "Vérins sans tige (Actionnement pneumatique)\r\n\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 369
+    },
+    {
+        "id": 370,
+        "nomSubCategory": "Actionneurs rotatifs (Actionnement pneumatique)\r\n\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 370
+    },
+    {
+        "id": 371,
+        "nomSubCategory": "Manutention (Actionnement pneumatique)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 371
+    },
+    {
+        "id": 372,
+        "nomSubCategory": "Capteurs magnétiques (Actionnement pneumatique)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 372
+    },
+    {
+        "id": 373,
+        "nomSubCategory": "Accessoires et dispositifs de fixation  (Actionnement pneumatique)\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 373
+    },
+    {
+        "id": 374,
+        "nomSubCategory": "Actionnement électrique ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 374
+    },
+    {
+        "id": 375,
+        "nomSubCategory": "Ventouses (Technologie du vide)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 375
+    },
+    {
+        "id": 376,
+        "nomSubCategory": "Compensateur de niveau (Technologie du vide)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 376
+    },
+    {
+        "id": 377,
+        "nomSubCategory": "Générateurs de vide (Technologie du vide)\r\n ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 377
+    },
+    {
+        "id": 378,
+        "nomSubCategory": "Vannes et électrovannes (Technologie du vide)\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 378
+    },
+    {
+        "id": 379,
+        "nomSubCategory": "Accessoires et instruments (Technologie du vide)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 379
+    },
+    {
+        "id": 380,
+        "nomSubCategory": "Régulateurs (Technologie du vide)\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 380
+    },
+    {
+        "id": 381,
+        "nomSubCategory": "Vannes et raccords fonctionnels (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 381
+    },
+    {
+        "id": 382,
+        "nomSubCategory": "Raccords rapides (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 382
+    },
+    {
+        "id": 383,
+        "nomSubCategory": "Raccords instantanés (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 383
+    },
+    {
+        "id": 384,
+        "nomSubCategory": "Appareils de mesure (Unités de service aérien)",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 384
+    },
+    {
+        "id": 385,
+        "nomSubCategory": "Norme en laiton (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 385
+    },
+    {
+        "id": 386,
+        "nomSubCategory": "Robinets à bille (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 386
+    },
+    {
+        "id": 387,
+        "nomSubCategory": "Silencieux et buse d'écoulement (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 387
+    },
+    {
+        "id": 388,
+        "nomSubCategory": "Tubes et accessoires (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 388
+    },
+    {
+        "id": 389,
+        "nomSubCategory": "Régulateurs de débit (Raccords pneumatiques ligne verte) ",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 389
+    },
+    {
+        "id": 390,
+        "nomSubCategory": "Serrage (Automobile )\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 390
+    },
+    {
+        "id": 391,
+        "nomSubCategory": "Bras de serrage(Automobile )\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 391
+    },
+    {
+        "id": 392,
+        "nomSubCategory": "Localisation (Automobile )\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 392
+    },
+    {
+        "id": 393,
+        "nomSubCategory": "Manutention (Automobile )\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 393
+    },
+    {
+        "id": 394,
+        "nomSubCategory": "Pivotant (Automobile )\r\n",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 394
+    },
+    {
+        "id": 396,
+        "nomSubCategory": "Produits complémentaires (Automobile )",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 396
+    },
+    {
+        "id": 397,
+        "nomSubCategory": "Accessoires (Automobile )",
+        "category": 302,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 397
+    },
+    {
+        "id": 398,
+        "nomSubCategory": "Distributeurs à clapet à commande directionnelle",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 398
+    },
+    {
+        "id": 399,
+        "nomSubCategory": "Distributeurs directionnels",
+        "category": 301,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 399
+    },
+    {
+        "id": 400,
+        "nomSubCategory": "Vannes et électrovannes pour fluides",
+        "category": 3009,
+        "created_at": "2024-10-16 19:46:01",
+        "updated_at": "2024-10-16 19:46:02",
+        "ordre": 400
+    },
+    {
+        "id": 401,
+        "nomSubCategory": "FRL et boosters",
+        "category": 3009,
+        "created_at": "2024-10-16 19:46:02",
+        "updated_at": "2024-10-16 19:46:03",
+        "ordre": 401
+    },
+    {
+        "id": 402,
+        "nomSubCategory": "Ligne acier - Vannes et électrovannes Inox",
+        "category": 3009,
+        "created_at": "2024-10-16 19:46:03",
+        "updated_at": "2024-10-16 19:48:20",
+        "ordre": 402
+    },
+    {
+        "id": 403,
+        "nomSubCategory": "Vannes à commande pneumatique - Aluminium",
+        "category": 3009,
+        "created_at": "2024-10-16 19:48:21",
+        "updated_at": "2024-10-16 19:48:22",
+        "ordre": 403
+    },
+    {
+        "id": 404,
+        "nomSubCategory": "Vannes à volets et électrovannes - Aluminium",
+        "category": 3009,
+        "created_at": "2024-10-16 19:48:23",
+        "updated_at": "2024-10-16 19:48:23",
+        "ordre": 404
+    },
+    {
+        "id": 405,
+        "nomSubCategory": "Vannes et électrovannes avec interface NAMUR",
+        "category": 3009,
+        "created_at": "2024-10-16 19:48:24",
+        "updated_at": "2024-10-16 19:48:24",
+        "ordre": 405
+    },
+    {
+        "id": 406,
+        "nomSubCategory": "Configurateur de collecteur",
+        "category": 3009,
+        "created_at": "2024-10-16 19:48:25",
+        "updated_at": "2024-10-16 19:48:25",
+        "ordre": 406
+    },
+    {
+        "id": 701,
+        "nomSubCategory": "Entraînements basse tension",
+        "category": 3003,
+        "created_at": "2024-08-27 09:51:14",
+        "updated_at": "2024-08-27 09:51:14",
+        "ordre": 701
+    },
+    {
+        "id": 702,
+        "nomSubCategory": "Variateurs moyenne tension",
+        "category": 3003,
+        "created_at": "2024-08-27 10:11:16",
+        "updated_at": "2024-08-27 10:11:16",
+        "ordre": 702
+    },
+    {
+        "id": 707,
+        "nomSubCategory": "Hot Products-JFS1-166",
+        "category": 3006,
+        "created_at": "2024-08-27 10:56:47",
+        "updated_at": "2024-08-27 10:56:47",
+        "ordre": 707
+    },
+    {
+        "id": 708,
+        "nomSubCategory": "Popular Products-JFS2-182",
+        "category": 3006,
+        "created_at": "2024-08-27 11:17:24",
+        "updated_at": "2024-08-27 11:17:24",
+        "ordre": 708
+    },
+    {
+        "id": 709,
+        "nomSubCategory": "Spot Goods-JFS2",
+        "category": 3006,
+        "created_at": "2024-08-27 11:29:35",
+        "updated_at": "2024-08-27 11:29:35",
+        "ordre": 709
+    },
+    {
+        "id": 710,
+        "nomSubCategory": "recommandation du vendeur",
+        "category": 3006,
+        "created_at": "2024-08-27 11:40:03",
+        "updated_at": "2024-08-27 11:40:03",
+        "ordre": 710
+    },
+    {
+        "id": 711,
+        "nomSubCategory": "Générateur solaire portable",
+        "category": 3007,
+        "created_at": "2024-09-07 18:49:20",
+        "updated_at": "2024-09-07 18:49:20",
+        "ordre": 711
+    },
+    {
+        "id": 712,
+        "nomSubCategory": "Générateur solaire portable à charge rapide",
+        "category": 3007,
+        "created_at": "2024-09-07 19:14:25",
+        "updated_at": "2024-09-07 19:14:25",
+        "ordre": 712
+    },
+    {
+        "id": 713,
+        "nomSubCategory": "Value Station d'alimentation portable",
+        "category": 3007,
+        "created_at": "2024-09-07 19:23:01",
+        "updated_at": "2024-09-07 19:23:01",
+        "ordre": 713
+    },
+    {
+        "id": 714,
+        "nomSubCategory": "Batterie à énergie domestique",
+        "category": 3007,
+        "created_at": "2024-09-07 19:39:26",
+        "updated_at": "2024-09-07 19:39:26",
+        "ordre": 714
+    },
+    {
+        "id": 715,
+        "nomSubCategory": "Inverseur solaire",
+        "category": 3007,
+        "created_at": "2024-09-07 19:50:20",
+        "updated_at": "2024-09-07 19:50:20",
+        "ordre": 715
+    },
+    {
+        "id": 716,
+        "nomSubCategory": "Câble optique",
+        "category": 205,
+        "created_at": "2024-09-07 20:29:33",
+        "updated_at": "2024-09-07 20:29:33",
+        "ordre": 716
+    },
+    {
+        "id": 9002,
+        "nomSubCategory": "Compresseur à deux étages",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9002
+    },
+    {
+        "id": 9003,
+        "nomSubCategory": "Compresseur à air diesel",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9003
+    },
+    {
+        "id": 9004,
+        "nomSubCategory": "Compresseur centrifuge",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9004
+    },
+    {
+        "id": 9005,
+        "nomSubCategory": "Compresseur pour découpe laser",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9005
+    },
+    {
+        "id": 9006,
+        "nomSubCategory": "Compresseur basse pression",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9006
+    },
+    {
+        "id": 9007,
+        "nomSubCategory": "Compresseur haute pression",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9007
+    },
+    {
+        "id": 9008,
+        "nomSubCategory": "Compresseur à gaz",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9008
+    },
+    {
+        "id": 9009,
+        "nomSubCategory": "Compresseur sans huile",
+        "category": 9001,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 1
+    },
+    {
+        "id": 9010,
+        "nomSubCategory": "Groupes électrogènes diesel",
+        "category": 9002,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9010
+    },
+    {
+        "id": 9011,
+        "nomSubCategory": "Moteurs electriques",
+        "category": 9003,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9011
+    },
+    {
+        "id": 9012,
+        "nomSubCategory": "Motoréducteurs",
+        "category": 9004,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9012
+    },
+    {
+        "id": 9013,
+        "nomSubCategory": "Transformateur",
+        "category": 9005,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9013
+    },
+    {
+        "id": 9014,
+        "nomSubCategory": "Le poste de transformateur",
+        "category": 9005,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9014
+    },
+    {
+        "id": 9015,
+        "nomSubCategory": "Disjoncteur",
+        "category": 9006,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9015
+    },
+    {
+        "id": 9016,
+        "nomSubCategory": "Appareillage de commutation",
+        "category": 9007,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9016
+    },
+    {
+        "id": 9017,
+        "nomSubCategory": "Outillage Electroportatif",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9017
+    },
+    {
+        "id": 9018,
+        "nomSubCategory": "Outillage à main",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9018
+    },
+    {
+        "id": 9019,
+        "nomSubCategory": "Outillage de précision",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9019
+    },
+    {
+        "id": 9020,
+        "nomSubCategory": "Outillage stationnaire",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9020
+    },
+    {
+        "id": 9021,
+        "nomSubCategory": "Outils de mesure et de détection",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9021
+    },
+    {
+        "id": 9022,
+        "nomSubCategory": "Equipements d'atelier",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9022
+    },
+    {
+        "id": 9023,
+        "nomSubCategory": "Equipements de Protection",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9023
+    },
+    {
+        "id": 9024,
+        "nomSubCategory": "Nettoyage et Entretien",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9024
+    },
+    {
+        "id": 9025,
+        "nomSubCategory": "Consommables et Accessoires",
+        "category": 9008,
+        "created_at": "2026-06-27 15:32:50",
+        "updated_at": "2026-06-27 15:32:50",
+        "ordre": 9025
+    },
+    {
+        "id": 9026,
+        "nomSubCategory": "Conducteurs Nus Aériens",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9027,
+        "nomSubCategory": "Câbles Aériens Isolés BT",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9028,
+        "nomSubCategory": "Câbles Puissance Moyenne Tension MT",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9029,
+        "nomSubCategory": "Câbles de Contrôle",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9030,
+        "nomSubCategory": "Câbles Installation Bâtiment",
+        "category": 205,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9031,
+        "nomSubCategory": "Transformateurs Secs Type SCB",
+        "category": 214,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9032,
+        "nomSubCategory": "Postes de Transformation Box",
+        "category": 214,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 99
+    },
+    {
+        "id": 9033,
+        "nomSubCategory": "Vanne à boisseau sphérique",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 1
+    },
+    {
+        "id": 9034,
+        "nomSubCategory": "Vanne à opercule",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 2
+    },
+    {
+        "id": 9035,
+        "nomSubCategory": "Vanne papillon",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 3
+    },
+    {
+        "id": 9036,
+        "nomSubCategory": "Vanne à manchon",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 4
+    },
+    {
+        "id": 9037,
+        "nomSubCategory": "Vanne guillotine",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 5
+    },
+    {
+        "id": 9038,
+        "nomSubCategory": "Vanne murale",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 6
+    },
+    {
+        "id": 9039,
+        "nomSubCategory": "Électrovanne à membrane",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 7
+    },
+    {
+        "id": 9040,
+        "nomSubCategory": "Vanne à clapet",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 8
+    },
+    {
+        "id": 9041,
+        "nomSubCategory": "Robinet à pointeau",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 9
+    },
+    {
+        "id": 9042,
+        "nomSubCategory": "Robinet à soupape",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 10
+    },
+    {
+        "id": 9043,
+        "nomSubCategory": "Vanne de régulation",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 11
+    },
+    {
+        "id": 9044,
+        "nomSubCategory": "Vanne à membrane",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 12
+    },
+    {
+        "id": 9045,
+        "nomSubCategory": "Robinet à flotteur",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 13
+    },
+    {
+        "id": 9046,
+        "nomSubCategory": "Clapet anti-retour",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 14
+    },
+    {
+        "id": 9047,
+        "nomSubCategory": "Filtre Y & à panier",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 15
+    },
+    {
+        "id": 9048,
+        "nomSubCategory": "Soupape de sûreté",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 16
+    },
+    {
+        "id": 9049,
+        "nomSubCategory": "Disque de rupture",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 17
+    },
+    {
+        "id": 9050,
+        "nomSubCategory": "Compensateur de dilatation",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 18
+    },
+    {
+        "id": 9051,
+        "nomSubCategory": "Déverseur",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 19
+    },
+    {
+        "id": 9052,
+        "nomSubCategory": "Réducteur de pression",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 20
+    },
+    {
+        "id": 9053,
+        "nomSubCategory": "Purgeur vapeur",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 21
+    },
+    {
+        "id": 9054,
+        "nomSubCategory": "Contrôleur de circulation",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 22
+    },
+    {
+        "id": 9055,
+        "nomSubCategory": "Garniture de niveau",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 23
+    },
+    {
+        "id": 9056,
+        "nomSubCategory": "Instrumentation industrielle",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 24
+    },
+    {
+        "id": 9057,
+        "nomSubCategory": "Raccord symétrique Guillemin",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 25
+    },
+    {
+        "id": 9058,
+        "nomSubCategory": "Raccord industriel HP",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 26
+    },
+    {
+        "id": 9059,
+        "nomSubCategory": "Raccord industriel BP",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 27
+    },
+    {
+        "id": 9060,
+        "nomSubCategory": "Bride Inox - Acier",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 28
+    },
+    {
+        "id": 9061,
+        "nomSubCategory": "Accessoires de tuyauterie",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 29
+    },
+    {
+        "id": 9062,
+        "nomSubCategory": "Actionneur",
+        "category": 217,
+        "created_at": "2026-06-29 22:09:35",
+        "updated_at": "2026-06-29 22:09:35",
+        "ordre": 30
+    },
+    {
+        "id": 9064,
+        "nomSubCategory": "Débitmètre magnétique",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9064
+    },
+    {
+        "id": 9065,
+        "nomSubCategory": "Débitmètre vortex",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9065
+    },
+    {
+        "id": 9066,
+        "nomSubCategory": "Débitmètre à turbine",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9066
+    },
+    {
+        "id": 9067,
+        "nomSubCategory": "Débitmètre à ultrasons",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9067
+    },
+    {
+        "id": 9068,
+        "nomSubCategory": "Débitmètre massique",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9068
+    },
+    {
+        "id": 9069,
+        "nomSubCategory": "Capteurs pH et analyse liquide",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9069
+    },
+    {
+        "id": 9070,
+        "nomSubCategory": "Transmetteur de niveau à ultrasons",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9070
+    },
+    {
+        "id": 9071,
+        "nomSubCategory": "Indicateur de niveau radar",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9071
+    },
+    {
+        "id": 9072,
+        "nomSubCategory": "Indicateur de niveau submersible",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9072
+    },
+    {
+        "id": 9073,
+        "nomSubCategory": "Transmetteur de pression",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9073
+    },
+    {
+        "id": 9074,
+        "nomSubCategory": "Transmetteur de pression différentielle",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9074
+    },
+    {
+        "id": 9075,
+        "nomSubCategory": "Manomètre numérique",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9075
+    },
+    {
+        "id": 9076,
+        "nomSubCategory": "Capteurs de température",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9076
+    },
+    {
+        "id": 9077,
+        "nomSubCategory": "Transmetteur de température",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9077
+    },
+    {
+        "id": 9078,
+        "nomSubCategory": "Enregistreurs sans papier",
+        "category": 219,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9078
+    },
+    {
+        "id": 9079,
+        "nomSubCategory": "Servovariateurs",
+        "category": 3003,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9079
+    },
+    {
+        "id": 9080,
+        "nomSubCategory": "Variateurs de fréquence série MD",
+        "category": 3003,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9080
+    },
+    {
+        "id": 9081,
+        "nomSubCategory": "Automates programmables et IHM",
+        "category": 3003,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9081
+    },
+    {
+        "id": 9082,
+        "nomSubCategory": "Huiles moteur",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9082
+    },
+    {
+        "id": 9083,
+        "nomSubCategory": "Huiles hydrauliques",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9083
+    },
+    {
+        "id": 9084,
+        "nomSubCategory": "Huiles de transmission",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9084
+    },
+    {
+        "id": 9085,
+        "nomSubCategory": "Huiles de compresseur et réfrigération",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9085
+    },
+    {
+        "id": 9087,
+        "nomSubCategory": "Graisses lubrifiantes",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null,
+        "ordre": 9087
+    }
+]

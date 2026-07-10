@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "Pelles hydrauliques",
+        "category": 1,
+        "created_at": "2026-06-30 21:37:29",
+        "updated_at": "2026-06-30 21:37:29"
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "Chargeuses",
+        "category": 2,
+        "created_at": "2026-06-30 21:37:36",
+        "updated_at": "2026-06-30 21:37:36"
+    },
+    {
+        "id": 3,
+        "nomSubCategory": "Niveleuses",
+        "category": 3,
+        "created_at": "2026-06-30 21:37:44",
+        "updated_at": "2026-06-30 21:37:44"
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "Compacteurs",
+        "category": 4,
+        "created_at": "2026-06-30 21:37:50",
+        "updated_at": "2026-06-30 21:37:50"
+    },
+    {
+        "id": 5,
+        "nomSubCategory": "Finisseurs",
+        "category": 5,
+        "created_at": "2026-06-30 21:37:57",
+        "updated_at": "2026-06-30 21:37:57"
+    },
+    {
+        "id": 6,
+        "nomSubCategory": "Béton",
+        "category": 6,
+        "created_at": "2026-06-30 21:38:08",
+        "updated_at": "2026-06-30 21:38:08"
+    },
+    {
+        "id": 7,
+        "nomSubCategory": "Grues",
+        "category": 7,
+        "created_at": "2026-06-30 21:38:18",
+        "updated_at": "2026-06-30 21:38:18"
+    }
+]

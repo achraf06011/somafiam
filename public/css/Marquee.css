@@ -1,0 +1,52 @@
+@import "//fonts.jonahsystems.com/fonts/jonah/fabriga/stylesheet.css";
+
+/* Marquee Container */
+.marquee {
+    overflow: hidden;
+}
+
+.marquee__container {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    white-space: nowrap;
+    will-change: transform;
+}
+
+/* Marquee Text Styles */
+.marquee__text {
+    font-family: gruppo;
+    font-weight: 400;
+    font-size: 3.5rem;
+    display: inline-flex;
+    align-items: center;
+    gap: var(--gutter);
+    padding-left: var(--gutter);
+    line-height: 1.2;
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+a.btn.btn-white {
+    margin-right: 25px;
+    margin-left: 25px;
+    /* font-size: 10px; */
+    /* font-family: Poppins; */
+    font-weight: 900;
+    font-style: normal;
+    text-transform: uppercase;
+}
+
+/* Adjust font size for different screen sizes */
+@media (max-width: 1380px) {
+    .marquee__text {
+        font-size: 4.333rem;
+    }
+}
+
+@media (max-width: 1180px) {
+    .marquee__text {
+        font-size: 3.867rem;
+    }
+}

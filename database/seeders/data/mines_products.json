@@ -1,0 +1,145 @@
+[
+    {
+        "id": 1,
+        "nomProduct": "NXG5650DT",
+        "imgProduct": "p-nxg5650dt.jpg",
+        "description": "Le NXG5650DT est un tombereau rigide 6x4 conçu par XCMG pour le transport de minerai, de stériles et de matériaux abrasifs dans les mines à ciel ouvert et les carrières. Sa motorisation Weichai WD12.375 associée à un châssis renforcé lui permet d'évoluer sur des pistes boueuses, poussiéreuses ou en forte pente sans perte de performance. Le système de freinage à double circuit avec accumulateur haute pression augmente la pression de freinage de 25 pour cent, ce qui raccourcit la distance d'arrêt en charge. Ce modèle est particulièrement répandu dans les opérations d'extraction de charbon et de minerai en Chine et à l'export.",
+        "caracteristiques": "Charge utile : 43 t\nPoids total en charge (PTAC) : 65 t\nPoids à vide : 23 t\nMoteur : Weichai WD12.375, 12 L\nTransmission : Fast Gear 9JSD180 (ou Fast 7DS180 \/ Allison 4430 auto en option)\nConfiguration : 6x4\nBenne (L x l x h) : 5800 x 3000 x 1600 mm\nPneumatiques : 14.00-24\nRéservoir carburant : 400 L",
+        "typeMachine": "Tombereau rigide minier tout-terrain",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:38:30",
+        "updated_at": "2026-06-30 21:38:30"
+    },
+    {
+        "id": 2,
+        "nomProduct": "XG105G",
+        "imgProduct": "p-xg105g.png",
+        "description": "Le XG105G est un tombereau de classe 105 tonnes développé spécifiquement pour les conditions extrêmes des mines à ciel ouvert. Sa cabine large K20 répond aux normes de sécurité FOPS et ROPS, protégeant l'opérateur contre les chutes de blocs et le retournement. Le moteur dédié aux applications minières affiche une consommation réduite de plus de 12 pourcent par rapport aux modèles concurrents, un atout majeur pour les exploitations à fort tonnage journalier. Largement éprouvé sur le terrain dans plusieurs régions minières, il fait partie des best-sellers de la gamme XG de XCMG.",
+        "caracteristiques": "Charge utile : environ 105 t\nVolume de benne : environ 45 m3\nCabine : K20 large, conforme FOPS\/ROPS\nUsage : mines à ciel ouvert, transport de stériles et minerai",
+        "typeMachine": "Tombereau rigide à benne large (wide-body) pour mines",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:38:30",
+        "updated_at": "2026-06-30 21:38:30"
+    },
+    {
+        "id": 3,
+        "nomProduct": "XKT150H",
+        "imgProduct": "p-xkt150h.jpg",
+        "description": "Le XKT150H illustre la transition de XCMG vers des solutions de transport minier plus sobres, avec une motorisation hybride à prolongateur d'autonomie diesel-électrique. XCMG annonce un gain de consommation de 15 à 30 pourcent par rapport à un tombereau diesel classique de classe équivalente, un argument de poids pour réduire les coûts d'exploitation sur de longs cycles de transport en mine à ciel ouvert. Classé dans la catégorie des 95 tonnes, il conserve l'architecture robuste de la gamme des tombereaux à benne large XCMG tout en intégrant une chaîne de traction électrifiée. Ce modèle cible les exploitants miniers cherchant à réduire leur empreinte carbone sans sacrifier la capacité de charge.",
+        "caracteristiques": "Classe de charge : environ 95 t\nMotorisation : hybride diesel-électrique à prolongateur d'autonomie (range extender)\nGain de consommation annoncé : -15 à -30 pourcent vs diesel classique\nType : tombereau à benne large (wide-body)",
+        "typeMachine": "Tombereau minier hybride à prolongateur d'autonomie (wide-body)",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:38:30",
+        "updated_at": "2026-06-30 21:38:30"
+    },
+    {
+        "id": 4,
+        "nomProduct": "XDR80TE",
+        "imgProduct": "p-xdr80te.png",
+        "description": "Le XDR80TE est présenté par XCMG comme l'un des premiers tombereaux miniers à benne large entièrement électriques de sa catégorie, conçu pour des opérations à zéro émission directe. Il reprend l'architecture robuste et la capacité de charge des tombereaux rigides classiques XCMG tout en remplaçant la chaîne cinématique diesel par une motorisation électrique à forte disponibilité de couple. Ce type de véhicule s'adresse aux sites miniers engagés dans une démarche de décarbonation, notamment pour les trajets répétitifs en circuit fermé où la recharge peut être optimisée. Il s'inscrit dans la stratégie de XCMG de proposer des alternatives électriques sur l'ensemble de sa gamme minière historiquement diesel.",
+        "caracteristiques": "Motorisation : 100 pour cent électrique\nType : tombereau à benne large (wide-body)\nÉmissions : zéro émission directe\nUsage : mines à ciel ouvert, circuits de transport répétitifs",
+        "typeMachine": "Tombereau minier 100 pour cent électrique (wide-body)",
+        "subCategory": 1,
+        "created_at": "2026-06-30 21:38:30",
+        "updated_at": "2026-06-30 21:38:30"
+    },
+    {
+        "id": 5,
+        "nomProduct": "XE7000",
+        "imgProduct": "p-xe7000.png",
+        "description": "L'XE7000 est la pelle hydraulique minière phare de XCMG, une machine de très fort tonnage destinée aux mines à ciel ouvert les plus exigeantes en charbon comme en minerai métallique. Équipée d'un godet pouvant atteindre 36 m3 en configuration roche, elle peut charger jusqu'à 60 tonnes de matériau par passe grâce à ses deux moteurs Cummins développant ensemble plus de 2300 kW. Le système hydraulique intelligent à régénération d'énergie optimise le rendement selon la charge, avec des débits annoncés entre 850 et 1400 m3 par heure selon les conditions. Sa cabine fermée certifiée FOPS et son système de double unité de puissance avec autodiagnostic en font une référence pour les très grands gisements.",
+        "caracteristiques": "Poids en ordre de marche : 673 t\nPuissance : 2 x 1193 kW a 1800 tr\/min\nCapacite godet : 30 a 36 m3 (jusqu'a 44 m3 en option charbon)\nProfondeur de fouille max : 9220 mm\nRayon de fouille max : 21,19 m\nHauteur de fouille : 16,65 m\nForce d'arrachement godet : 1640 kN\nDimensions hors tout : 22500 x 9090 x 10370 mm",
+        "typeMachine": "Pelle hydraulique minière à très grande capacité (chenilles)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:38:36",
+        "updated_at": "2026-06-30 21:38:36"
+    },
+    {
+        "id": 6,
+        "nomProduct": "XE5600",
+        "imgProduct": "p-xe5600.jpg",
+        "description": "L'XE5600 se positionne entre les très grands modèles et les pelles minières intermédiaires, avec un godet de 27 à 35 m3 selon la configuration. Ses deux groupes motopropulseurs importés totalisant plus de 2200 kW lui assurent une puissance suffisante pour les chantiers d'extraction de charbon et de minerai les plus intenses. XCMG met en avant son système de régulation thermique intelligent qui ajuste automatiquement la vitesse des ventilateurs, ainsi qu'une cabine large à étanchéité renforcée de 70 pourcent pour le confort de l'opérateur. Disponible en version pelle frontale, butte (backhoe) ou électrique, elle est conçue pour fonctionner en tandem avec les tombereaux de la gamme XE260 de XCMG.",
+        "caracteristiques": "Poids en ordre de marche : 569,7 t\nPuissance : 2 x 1119 kW a 1800 tr\/min\nCapacite godet : 27 a 35 m3\nProfondeur de fouille max : 8810 mm\nForce d'arrachement godet : 1500 kN\nDimensions hors tout : 22110 x 10300 x 9155 mm\nVersions disponibles : pelle frontale, butte, electrique",
+        "typeMachine": "Pelle hydraulique minière de grande capacité (chenilles)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:38:38",
+        "updated_at": "2026-06-30 21:38:38"
+    },
+    {
+        "id": 7,
+        "nomProduct": "XE4000",
+        "imgProduct": "p-xe4000.png",
+        "description": "L'XE4000 est une pelle minière de 384 tonnes équipée d'un moteur Cummins full EC à double turbocompression et système d'injection common rail modulaire, conçu pour offrir une puissance élevée tout en maîtrisant la consommation de carburant. Livrée en standard avec un godet roche de 22 m3, elle peut recevoir un godet terrassement de 23 m3 selon les besoins, ce qui la rend polyvalente entre découverture stérile, chargement de charbon et terrassement minier. Les liaisons articulées du godet, du bras et de la flèche bénéficient d'une lubrification automatique qui prolonge la durée de vie des axes, un point clé pour limiter les arrêts de maintenance. XCMG indique que ce modèle a été testé sur le terrain dans des mines de charbon et de métaux, avec un coût d'exploitation total optimisé sur l'ensemble du cycle de vie.",
+        "caracteristiques": "Poids en ordre de marche : 384 t (390 t selon variante)\nPuissance : 1491 kW a 1800 tr\/min\nCapacite godet : 15 a 23 m3 (22 m3 en standard)\nProfondeur de fouille max : 8430 mm\nForce d'arrachement godet : 1057 kN\nDimensions hors tout : 20000 x 9070 x 8590 mm\nPression au sol : 260 kPa",
+        "typeMachine": "Pelle hydraulique minière de grande capacité (chenilles)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:38:40",
+        "updated_at": "2026-06-30 21:38:40"
+    },
+    {
+        "id": 8,
+        "nomProduct": "XE900D",
+        "imgProduct": "p-xe900d.jpg",
+        "description": "L'XE900D représente l'entrée de gamme des pelles minières lourdes de XCMG, avec un poids en ordre de marche proche de 90 tonnes et un godet de 4,1 à 7 m3 adapté aux mines de taille moyenne. Elle embarque un moteur Cummins QSX15 importé conforme à la norme Tier 3, avec une régulation électronique qui améliore la réserve de couple de 11 pourcent tout en réduisant la consommation de 9 pourcent. Sa vitesse de translation pouvant atteindre 40 km\/h facilite les déplacements rapides entre fronts de taille, un avantage opérationnel sur les sites étendus. Le système hydraulique à débit négatif et le refroidissement piloté automatiquement complètent un ensemble pensé pour la fiabilité en usage intensif.",
+        "caracteristiques": "Poids en ordre de marche : 89,6 t\nPuissance : 399 kW a 2100 tr\/min (moteur Cummins QSX15)\nCapacite godet : 4,1 a 7 m3 (5,1 a 6,5 m3 selon source)\nForce d'arrachement : 480 kN\nProfondeur de fouille max : 7,25 m\nVitesse de translation max : 40 km\/h",
+        "typeMachine": "Pelle hydraulique minière (chenilles, classe 90 tonnes)",
+        "subCategory": 2,
+        "created_at": "2026-06-30 21:38:40",
+        "updated_at": "2026-06-30 21:38:40"
+    },
+    {
+        "id": 9,
+        "nomProduct": "XKY270E",
+        "imgProduct": "p-xky270e.png",
+        "description": "La XKY270E est la foreuse rotative phare de XCMG pour le forage de trous de mine en exploitation à ciel ouvert, montée sur un châssis dérivé de la pelle minière 70 tonnes de XCMG pour garantir robustesse et stabilité. Elle se distingue par ses capacités intelligentes : nivellement automatique, forage automatisé, diagnostic de pannes assisté et possibilité de conduite à distance via réseau 5G avec un temps de réponse inférieur à 50 millisecondes. XCMG indique que des essais en conditions réelles ont permis d'accumuler plus de 7000 mètres de forage de façon stable, validant la fiabilité de la machine en mine de charbon comme en mine métallique. Son double moteur de sortie améliore la dissipation thermique, un point critique pour le forage intensif en continu.",
+        "caracteristiques": "Diametre de forage : 230 a 270 mm\nProfondeur de forage max : 53,3 m\nPoids : 95 t\nPuissance moteur : 530 kW\nForce d'avancement max : 350 kN\nLongueur de fleche (horizontale) : 15580 mm\nFonctions : nivellement auto, forage auto, conduite a distance 5G",
+        "typeMachine": "Foreuse rotative intelligente pour trous de mine (open-pit)",
+        "subCategory": 3,
+        "created_at": "2026-06-30 21:38:43",
+        "updated_at": "2026-06-30 21:38:43"
+    },
+    {
+        "id": 11,
+        "nomProduct": "XQZ229",
+        "imgProduct": "p-xqz229.jpg",
+        "description": "La XQZ229 est une foreuse marteau fond de trou (DTH) de forte capacite développée par XCMG pour les mines a ciel ouvert et les carrieres, dediee au forage des trous de mine principaux et des trous de pre-decoupage avant tir. Elle integre en une seule machine la cabine, le compresseur d'air et le dispositif de changement de tiges, ce qui simplifie son utilisation sur site et reduit les besoins en equipements annexes. Son grand diametre de forage et son rendement eleve en font un outil polyvalent, capable de s'adapter a une large gamme de conditions geologiques rencontrees en mine de charbon ou de roche dure. Le systeme de refroidissement independant pour le moteur, le compresseur et l'hydraulique lui permet de fonctionner meme par temperature ambiante elevee, jusqu'a 50 degres C.",
+        "caracteristiques": "Diametre de forage : grand diametre (gamme XQZ, jusqu'a environ 229 mm)\nProfondeur de forage : adaptee au forage de production en mine a ciel ouvert\nMotorisation : moteur diesel + compresseur d'air integre\nInclinaison reglable : +\/- 10 degres par rapport au chassis chenille\nTemperature de fonctionnement : jusqu'a 50 degres C",
+        "typeMachine": "Foreuse marteau fond de trou (DTH) pour mine a ciel ouvert",
+        "subCategory": 3,
+        "created_at": "2026-06-30 21:38:43",
+        "updated_at": "2026-06-30 21:38:43"
+    },
+    {
+        "id": 12,
+        "nomProduct": "LW1200KV",
+        "imgProduct": "p-lw1200kv.png",
+        "description": "La LW1200KV est l'une des plus grandes chargeuses sur pneus du marché chinois, conçue par XCMG pour le chargement intensif dans les mines à ciel ouvert et les grandes carrières de granulats. Conforme aux normes d'émissions Stade IV, elle associe une structure renforcée à une puissance moteur pouvant atteindre 567 kW pour offrir une charge utile nominale de 12 tonnes par godet. XCMG met en avant sa fiabilité en usage intensif, sa faible consommation rapportée à la tonne déplacée et ses coûts de maintenance réduits, des critères déterminants pour les exploitants de mines de charbon et de carrières de grande capacité. Elle est notamment utilisée en complément des aciéries, cokeries et centrales électriques pour la manutention de vrac.",
+        "caracteristiques": "Charge nominale : 12000 kg\nPuissance : 428 \/ 567 kW\nPoids en ordre de marche : 52 500 +\/- 500 kg\nHauteur de deversement : 3840 mm\nNorme emissions : Stade IV\nUsage : mines a ciel ouvert, grands parcs a charbon, carrieres",
+        "typeMachine": "Chargeuse sur pneus de très grande capacité pour mines à ciel ouvert",
+        "subCategory": 4,
+        "created_at": "2026-06-30 21:39:01",
+        "updated_at": "2026-06-30 21:39:01"
+    },
+    {
+        "id": 13,
+        "nomProduct": "ZL50E",
+        "imgProduct": "p-zl50e.jpg",
+        "description": "La ZL50E est une chargeuse compacte développée spécifiquement par XCMG pour les galeries souterraines de mines de charbon et de métaux, où la hauteur et la largeur de passage sont limitées. Sa cabine de protection est réglable verticalement sur trois niveaux pour s'adapter aux différentes hauteurs de galerie, et un dispositif de traitement des gaz d'échappement filtre les fumées afin de préserver la qualité de l'air en milieu confiné. Construite avec des pièces structurelles renforcées validées par analyse de fatigue assistée par ordinateur, elle est conçue pour résister aux conditions sévères propres au travail souterrain. Des équipements optionnels comme des godets agrandis, des flèches allongées ou un déversement latéral permettent d'adapter la machine à des configurations de chantier variées.",
+        "caracteristiques": "Capacite godet : 2,5 m3\nCharge nominale : 5000 kg\nPuissance : 162 kW\nPoids en ordre de marche : 18 500 kg\nForce d'arrachement max : 155 kN\nDimensions hors tout : 8390 x 3000 x 2700 mm\nUsage : chargement souterrain en mine de charbon ou de metal",
+        "typeMachine": "Chargeuse souterraine sur pneus pour mine (underground)",
+        "subCategory": 4,
+        "created_at": "2026-06-30 21:39:01",
+        "updated_at": "2026-06-30 21:39:01"
+    },
+    {
+        "id": 14,
+        "nomProduct": "ZL30E",
+        "imgProduct": "p-zl30e.jpg",
+        "description": "La ZL30E complète la gamme souterraine de XCMG aux côtés de la ZL50E, en visant les galeries de plus petit gabarit où une machine plus compacte est nécessaire. Elle reprend les principes constructifs communs à la série de chargeuses souterraines XCMG : structure renforcée pour les chocs et l'abrasion propres au milieu minier, ventilation et filtration adaptées au travail en espace confiné, et cabine protectrice ajustable selon la hauteur de la galerie. Cette chargeuse cible les exploitations de taille moyenne qui ont besoin d'une machine maniable capable de creuser, charger et transporter sur de courtes distances en sous-sol. Elle s'inscrit dans la stratégie de XCMG de couvrir l'ensemble des gabarits de galeries avec une gamme dédiée ZL20E, ZL30E et ZL50E.",
+        "caracteristiques": "Gamme : chargeuse souterraine compacte (classe inferieure a la ZL50E)\nUsage : mines de charbon et metalliques souterraines, galeries de petit gabarit\nCaracteristiques communes a la serie : cabine reglable 3 niveaux, filtration des gaz d'echappement, structure renforcee anti-chocs",
+        "typeMachine": "Chargeuse souterraine sur pneus pour mine (underground)",
+        "subCategory": 4,
+        "created_at": "2026-06-30 21:39:01",
+        "updated_at": "2026-06-30 21:39:01"
+    }
+]

@@ -1,0 +1,289 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "Plaque en acier au carbone",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "Plaque en acier au carbone",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "Tuyau en acier au carbone",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomSubCategory": "Barre en acier au carbone",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "nomSubCategory": "Barre d'armature en acier",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "nomSubCategory": " Fil machine",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "nomSubCategory": "Acier forgé",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "nomSubCategory": "Plaque en acier inoxydable",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "nomSubCategory": "Bobine en acier inoxydable",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "nomSubCategory": "Tuyau en acier inoxydable",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "nomSubCategory": "Barre en acier inoxydable",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "nomSubCategory": "Plaque revêtue de couleur",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "nomSubCategory": "Bobine revêtue de couleur",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "nomSubCategory": "Tôle en acier galvanisé",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "nomSubCategory": " Bobine en acier galvanisé",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "nomSubCategory": "Tôle en acier galvalume",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "nomSubCategory": " Bobine en acier galvalume",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "nomSubCategory": " CRNGO Non-Orienté",
+        "category": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "nomSubCategory": "CRGO Acier au Silicium Orienté\n",
+        "category": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "nomSubCategory": "Plaque d'aluminium",
+        "category": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 26,
+        "nomSubCategory": "Bobine d'aluminium",
+        "category": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "nomSubCategory": "Tuyau d'aluminium",
+        "category": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "nomSubCategory": "Barre d'aluminium",
+        "category": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "nomSubCategory": "Bobine de cuivre",
+        "category": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "nomSubCategory": "Plaque de cuivre",
+        "category": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 31,
+        "nomSubCategory": "Tuyau de cuivre",
+        "category": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "nomSubCategory": "Barre de cuivre",
+        "category": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 33,
+        "nomSubCategory": "Aciers martensitiques",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "nomSubCategory": "Acier à durcissement par pressage",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 35,
+        "nomSubCategory": "Acier à phase complexe",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "nomSubCategory": "Acier à haute ductilité des bords",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "nomSubCategory": "Acier à double phase",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 38,
+        "nomSubCategory": "Acier à haute résistance faiblement allié",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 39,
+        "nomSubCategory": "Poutres en H",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 40,
+        "nomSubCategory": "Poutre universelle",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 41,
+        "nomSubCategory": "Acier en U",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 42,
+        "nomSubCategory": "Acier en L\n",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 43,
+        "nomSubCategory": "Tubes en acier HSS",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 44,
+        "nomSubCategory": "Fixations",
+        "category": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 45,
+        "nomSubCategory": "Feuille en fer-blanc",
+        "category": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 46,
+        "nomSubCategory": "Bobine en fer-blanc",
+        "category": 10,
+        "created_at": null,
+        "updated_at": null
+    }
+]

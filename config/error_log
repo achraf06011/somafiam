@@ -1,0 +1,4 @@
+[19-Mar-2026 18:30:21 Africa/Casablanca] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/somafiam/public_html/config/database.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/somafiam/public_html/config/database.php on line 19

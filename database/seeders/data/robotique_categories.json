@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nomCategory": "Médical, Pharmaceutique, Medtech",
+        "imgCategory": "robotique\/images\/slide1.jpg",
+        "ordre": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomCategory": "Agroalimentaire",
+        "imgCategory": "robotique\/images\/slide2.jpg",
+        "ordre": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nomCategory": "Automobile",
+        "imgCategory": "robotique\/images\/slide3.jpg",
+        "ordre": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomCategory": "Electronique, Electromécanique, Electroménager",
+        "imgCategory": "robotique\/images\/slide4.jpg",
+        "ordre": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomCategory": "Mécanique, Énergie, Plasturgie",
+        "imgCategory": "robotique\/images\/slide5.jpg",
+        "ordre": 5,
+        "created_at": null,
+        "updated_at": null
+    }
+]

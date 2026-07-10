@@ -1,0 +1,1658 @@
+[
+    {
+        "id": 1,
+        "nomProduct": "Tôle en acier au carbone",
+        "imgProduct": "Carbon Steel Plate.jpg",
+        "description": "Tôle en acier au carbone",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomProduct": "Tôle en acier laminée à froid",
+        "imgProduct": "Cold Rolled Steel Plate.jpg",
+        "description": "Tôle en acier laminée à froid",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nomProduct": "Tôle en acier pour récipients sous pression",
+        "imgProduct": "Pressure Vessel Steel Plate.jpg",
+        "description": "Tôle en acier pour récipients sous pression",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomProduct": "Tôle en acier pour pipeline",
+        "imgProduct": "Pipeline Steel Coil Steel Plate.jpg",
+        "description": "Tôle en acier pour pipeline",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomProduct": "Tôle en acier laminée à chaud",
+        "imgProduct": "Hot Rolled Steel Plate.jpg",
+        "description": "Tôle en acier laminée à chaud",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "nomProduct": "Tôle en acier au manganèse",
+        "imgProduct": "Manganese Steel Plate.jpg",
+        "description": "Tôle en acier au manganèse",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "nomProduct": "Tôle en acier doux",
+        "imgProduct": "Mild Steel Plate.jpg",
+        "description": "Tôle en acier doux",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "nomProduct": "Tôle en acier pour réservoirs",
+        "imgProduct": "Tank Steel Plate.jpg",
+        "description": "Tôle en acier pour réservoirs",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "nomProduct": "Tôle en acier naval au carbone",
+        "imgProduct": "Carbon Shipbuilding Steel Plate.jpg",
+        "description": "Tôle en acier naval au carbone",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "nomProduct": "Tôle en acier de structure allié",
+        "imgProduct": "Alloy Structural Steel Plate.jpg",
+        "description": "Tôle en acier de structure allié",
+        "subCategory": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "nomProduct": "Bobine en acier au carbone",
+        "imgProduct": "Carbon Steel Coil.jpg",
+        "description": "Bobine en acier au carbone",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "nomProduct": "Bobine en acier pour pipeline",
+        "imgProduct": "Pipeline Steel Coil.jpg",
+        "description": "Bobine en acier pour pipeline",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "nomProduct": "Bobine en acier au carbone pour récipients sous pression",
+        "imgProduct": "Pressure Vessel Carbon Steel Coil.jpg",
+        "description": "Bobine en acier au carbone pour récipients sous pression",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "nomProduct": "Bobine en acier au carbone (norme GB)",
+        "imgProduct": "GB Material Carbon Steel Coil.jpg",
+        "description": "Bobine en acier au carbone (norme GB)",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "nomProduct": "Bobine en acier laminée à froid",
+        "imgProduct": "Cold Rolled Steel Coil.jpg",
+        "description": "Bobine en acier laminée à froid",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "nomProduct": "Bobine en alliage d'acier",
+        "imgProduct": "Alloy Coil.jpg",
+        "description": "Bobine en alliage d'acier",
+        "subCategory": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 17,
+        "nomProduct": "Tube en acier doux",
+        "imgProduct": "Mild Steel Tube.jpg",
+        "description": "Tube en acier doux",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 18,
+        "nomProduct": "Tube rectangulaire en acier au carbone",
+        "imgProduct": "Carbon Steel Rectangular Tube.jpg",
+        "description": "Tube rectangulaire en acier au carbone",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 19,
+        "nomProduct": "Tube soudé par résistance",
+        "imgProduct": "Resistance Welded Pipe.jpg",
+        "description": "Tube soudé par résistance",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 20,
+        "nomProduct": "Tube en acier galvanisé",
+        "imgProduct": "Galvanized Steel Pipe.jpg",
+        "description": "Tube en acier galvanisé",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 21,
+        "nomProduct": "Pieux en tubes avec et sans soudure",
+        "imgProduct": "Seamless & Welded Pipe Piles.jpg",
+        "description": "Pieux en tubes avec et sans soudure",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 22,
+        "nomProduct": "Tube en acier au carbone sans soudure",
+        "imgProduct": "Seamless Carbon Steel Pipe.jpg",
+        "description": "Tube en acier au carbone sans soudure",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 23,
+        "nomProduct": "Tube en acier sans soudure",
+        "imgProduct": "Seamless Steel Tube.jpg",
+        "description": "Tube en acier sans soudure",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 24,
+        "nomProduct": "Conduite en acier sans soudure",
+        "imgProduct": "Seamless Steel Pipe.jpg",
+        "description": "Conduite en acier sans soudure",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 25,
+        "nomProduct": "Conduite en acier de grade B",
+        "imgProduct": "Grade B Steel Pipe.jpg",
+        "description": "Conduite en acier de grade B",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 26,
+        "nomProduct": "Conduite en acier au carbone avec et sans soudure",
+        "imgProduct": "Seamless & Welded Carbon Steel Pipe.jpg",
+        "description": "Conduite en acier au carbone avec et sans soudure",
+        "subCategory": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 27,
+        "nomProduct": "Barre en acier brillant",
+        "imgProduct": "Bright Steel Bar.jpg",
+        "description": "Barre en acier brillant",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 28,
+        "nomProduct": "Barre plate en acier",
+        "imgProduct": "Steel Flat Bar.jpg",
+        "description": "Barre plate en acier",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 29,
+        "nomProduct": "Barre en acier étirée à froid",
+        "imgProduct": "Cold-Drawn Steel Bar.jpg",
+        "description": "Barre en acier étirée à froid",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 30,
+        "nomProduct": "Barre ronde en acier série EN",
+        "imgProduct": "EN Series Round Steel Bar.jpg",
+        "description": "Barre ronde en acier série EN",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 31,
+        "nomProduct": "Barre en acier au carbone",
+        "imgProduct": "Carbon Steel Bar.jpg",
+        "description": "Barre en acier au carbone",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 32,
+        "nomProduct": "Barre en acier allié",
+        "imgProduct": "Alloy Steel Bar.jpg",
+        "description": "Barre en acier allié",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 33,
+        "nomProduct": "Barre ronde en acier",
+        "imgProduct": "Round Steel Bar.jpg",
+        "description": "Barre ronde en acier",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 34,
+        "nomProduct": "Barre en acier galvanisé",
+        "imgProduct": "Galvanized Steel Bar.jpg",
+        "description": "Barre en acier galvanisé",
+        "subCategory": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 35,
+        "nomProduct": "Acier à béton (grade)",
+        "imgProduct": "Concrete Rebar Grade.jpg",
+        "description": "Acier à béton (grade)",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 36,
+        "nomProduct": "Barre en acier revêtue",
+        "imgProduct": "Coated Steel Bar.jpg",
+        "description": "Barre en acier revêtue",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 37,
+        "nomProduct": "Barre d'armature",
+        "imgProduct": "Reinforcement Bar.jpg",
+        "description": "Barre d'armature",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 38,
+        "nomProduct": "Rond à béton",
+        "imgProduct": "Rebar.jpg",
+        "description": "Rond à béton",
+        "subCategory": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 39,
+        "nomProduct": "Fil machine en acier",
+        "imgProduct": "Steel Wire Rod.jpg",
+        "description": "Fil machine en acier",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 40,
+        "nomProduct": "Fils machines",
+        "imgProduct": "Wire Rods.jpg",
+        "description": "Fils machines",
+        "subCategory": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 41,
+        "nomProduct": "Pièce forgée tête de crosse",
+        "imgProduct": "Crosshead Forging.jpg",
+        "description": "Pièce forgée tête de crosse",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 42,
+        "nomProduct": "Arbres à brides forgés",
+        "imgProduct": "Flange Shafts.jpg",
+        "description": "Arbres à brides forgés",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 43,
+        "nomProduct": "Pièces de cylindre forgées",
+        "imgProduct": "Cylinder Parts.jpg",
+        "description": "Pièces de cylindre forgées",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 44,
+        "nomProduct": "Pièces forgées marines",
+        "imgProduct": "Marine Forgings.jpg",
+        "description": "Pièces forgées marines",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 45,
+        "nomProduct": "Arbres étagés forgés",
+        "imgProduct": "Step Shafts.jpg",
+        "description": "Arbres étagés forgés",
+        "subCategory": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 46,
+        "nomProduct": "Tôle en acier inoxydable",
+        "imgProduct": "Stainless Steel Plate.jpg",
+        "description": "Tôle en acier inoxydable",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 47,
+        "nomProduct": "Tôle en acier inoxydable duplex",
+        "imgProduct": "Duplex Stainless Steel Plate.jpg",
+        "description": "Tôle en acier inoxydable duplex",
+        "subCategory": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 48,
+        "nomProduct": "Bobine en acier inoxydable",
+        "imgProduct": "Stainless Steel Coil.jpg",
+        "description": "Bobine en acier inoxydable",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 49,
+        "nomProduct": "Bobine en acier inoxydable au titane",
+        "imgProduct": "Ti Stainless Steel Coil.jpg",
+        "description": "Bobine en acier inoxydable au titane",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 50,
+        "nomProduct": "Bobine en acier inoxydable (série S)",
+        "imgProduct": "S Stainless Steel Coil.jpg",
+        "description": "Bobine en acier inoxydable (série S)",
+        "subCategory": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 51,
+        "nomProduct": "Tube soudé en acier inoxydable",
+        "imgProduct": "Stainless Steel Welded Tube.jpg",
+        "description": "Tube soudé en acier inoxydable",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 52,
+        "nomProduct": "Conduite sans soudure en acier inoxydable",
+        "imgProduct": "Stainless Steel Seamless Pipe.jpg",
+        "description": "Conduite sans soudure en acier inoxydable",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 53,
+        "nomProduct": "Conduite en acier inoxydable (série C)",
+        "imgProduct": "C Stainless Steel Pipe.jpg",
+        "description": "Conduite en acier inoxydable (série C)",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 54,
+        "nomProduct": "Conduite en acier inoxydable SMO",
+        "imgProduct": "SMO Stainless Steel Pipe.jpg",
+        "description": "Conduite en acier inoxydable SMO",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 55,
+        "nomProduct": "Conduite en acier inoxydable au titane",
+        "imgProduct": "Ti Stainless Steel Pipe.jpg",
+        "description": "Conduite en acier inoxydable au titane",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 56,
+        "nomProduct": "Conduite en acier inoxydable duplex",
+        "imgProduct": "Duplex Stainless Steel Pipe.jpg",
+        "description": "Conduite en acier inoxydable duplex",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 57,
+        "nomProduct": "Conduite en acier inoxydable (série L)",
+        "imgProduct": "L Stainless Steel Pipe.jpg",
+        "description": "Conduite en acier inoxydable (série L)",
+        "subCategory": 11,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 58,
+        "nomProduct": "Barre en acier inoxydable",
+        "imgProduct": "Stainless Steel Bar.jpg",
+        "description": "Barre en acier inoxydable",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 59,
+        "nomProduct": "Barre en acier inoxydable duplex",
+        "imgProduct": "Duplex Stainless Steel Bar.jpg",
+        "description": "Barre en acier inoxydable duplex",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 60,
+        "nomProduct": "Barre en acier inoxydable (série L)",
+        "imgProduct": "L Stainless Steel Bar.jpg",
+        "description": "Barre en acier inoxydable (série L)",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 61,
+        "nomProduct": "Barre en acier inoxydable au titane",
+        "imgProduct": "Ti Stainless Steel Bar.jpg",
+        "description": "Barre en acier inoxydable au titane",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 62,
+        "nomProduct": "Barre hexagonale en acier inoxydable",
+        "imgProduct": "Stainless Steel Hex Bar.jpg",
+        "description": "Barre hexagonale en acier inoxydable",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 63,
+        "nomProduct": "Barre en acier inoxydable SMO",
+        "imgProduct": "SMO Stainless Steel Bar.jpg",
+        "description": "Barre en acier inoxydable SMO",
+        "subCategory": 12,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 64,
+        "nomProduct": "Feuille d'acier",
+        "imgProduct": "Steel Sheet.jpg",
+        "description": "Feuille d'acier",
+        "subCategory": 17,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 65,
+        "nomProduct": "Feuille en acier Galvalume prépeinturée",
+        "imgProduct": "Prepainted Galvalume Steel Sheet.jpg",
+        "description": "Feuille en acier Galvalume prépeinturée",
+        "subCategory": 17,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 66,
+        "nomProduct": "Feuille en aluminium revêtue colorée",
+        "imgProduct": "Color Coated Aluminum Sheet.jpg",
+        "description": "Feuille en aluminium revêtue colorée",
+        "subCategory": 17,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 67,
+        "nomProduct": "Feuille de toiture ondulée colorée",
+        "imgProduct": "Colored Corrugated Roof Sheet.jpg",
+        "description": "Feuille de toiture ondulée colorée",
+        "subCategory": 17,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 68,
+        "nomProduct": "Feuille en acier Galvalume revêtue colorée",
+        "imgProduct": "Color Coated Galvalume Steel Sheet.jpg",
+        "description": "Feuille en acier Galvalume revêtue colorée",
+        "subCategory": 17,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 69,
+        "nomProduct": "Bobine en acier galvanisé revêtue colorée",
+        "imgProduct": "Color Coated Galvanized Steel Coil.jpg",
+        "description": "Bobine en acier galvanisé revêtue colorée",
+        "subCategory": 18,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 70,
+        "nomProduct": "Bobine revêtue à motifs colorés",
+        "imgProduct": "Pattern Color Coating Coil.jpg",
+        "description": "Bobine revêtue à motifs colorés",
+        "subCategory": 18,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 71,
+        "nomProduct": "Bobine en acier Galvalume prépeinturée",
+        "imgProduct": "Prepainted Galvalume Steel Coil.jpg",
+        "description": "Bobine en acier Galvalume prépeinturée",
+        "subCategory": 18,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 72,
+        "nomProduct": "Bobine en acier",
+        "imgProduct": "Steel Coil.jpg",
+        "description": "Bobine en acier",
+        "subCategory": 18,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 73,
+        "nomProduct": "Bobine en acier revêtue colorée pour électroménager",
+        "imgProduct": "Color Coated Steel Coil for Household Appliances.jpg",
+        "description": "Bobine en acier revêtue colorée pour électroménager",
+        "subCategory": 18,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 74,
+        "nomProduct": "Feuille galvanisée (série G)",
+        "imgProduct": "G Galvanized Sheet.jpg",
+        "description": "Feuille galvanisée (série G)",
+        "subCategory": 19,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 75,
+        "nomProduct": "Feuille galvanisée",
+        "imgProduct": "Galvanized Sheet.jpg",
+        "description": "Feuille galvanisée",
+        "subCategory": 19,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 76,
+        "nomProduct": "Feuille de toiture ondulée galvanisée",
+        "imgProduct": "Galvanized Corrugated Roof Sheet.jpg",
+        "description": "Feuille de toiture ondulée galvanisée",
+        "subCategory": 19,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 77,
+        "nomProduct": "Feuille en acier galvanisé prépeinturée",
+        "imgProduct": "Prepainted Galvanized Steel Sheet.jpg",
+        "description": "Feuille en acier galvanisé prépeinturée",
+        "subCategory": 19,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 78,
+        "nomProduct": "Bobine galvanisée (série G)",
+        "imgProduct": "G Galvanized Coil.jpg",
+        "description": "Bobine galvanisée (série G)",
+        "subCategory": 20,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 79,
+        "nomProduct": "Bobine galvanisée",
+        "imgProduct": "Galvanized Coil.jpg",
+        "description": "Bobine galvanisée",
+        "subCategory": 20,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 80,
+        "nomProduct": "Feuille en acier Galvalume",
+        "imgProduct": "Galvalume Steel Sheet.jpg",
+        "description": "Feuille en acier Galvalume",
+        "subCategory": 21,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 81,
+        "nomProduct": "Feuille de toiture ondulée en acier Galvalume",
+        "imgProduct": "Galvalume Steel Corrugated Roof Sheet.jpg",
+        "description": "Feuille de toiture ondulée en acier Galvalume",
+        "subCategory": 21,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 82,
+        "nomProduct": "Bobine en acier Galvalume AZ",
+        "imgProduct": "AZ Galvalume Steel Coil.jpg",
+        "description": "Bobine en acier Galvalume AZ",
+        "subCategory": 22,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 83,
+        "nomProduct": "Bobine en acier Galvalume trempé à chaud",
+        "imgProduct": "Hot Dip Galvalume Steel Coil.jpg",
+        "description": "Bobine en acier Galvalume trempé à chaud",
+        "subCategory": 22,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 106,
+        "nomProduct": "Acier non orienté laminé à chaud",
+        "imgProduct": "Hot Rolled Non-oriented Steel.jpg",
+        "description": "Acier non orienté laminé à chaud",
+        "subCategory": 23,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 107,
+        "nomProduct": "Acier électrique non orienté laminé à froid",
+        "imgProduct": "Cold Rolled Non-oriented Electrical Steel.jpg",
+        "description": "Acier électrique non orienté laminé à froid",
+        "subCategory": 23,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 108,
+        "nomProduct": "Acier non orienté laminé à froid",
+        "imgProduct": "Cold Rolled Non-oriented  Steel.jpg",
+        "description": "Acier non orienté laminé à froid",
+        "subCategory": 23,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 109,
+        "nomProduct": "Acier électrique non orienté entièrement traité",
+        "imgProduct": "Non-Oriented Electrical Steel Fully Processed.jpg",
+        "description": "Acier électrique non orienté entièrement traité",
+        "subCategory": 23,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 110,
+        "nomProduct": "CRNGO pour électroménager",
+        "imgProduct": "CRNGO Home Appliance.jpg",
+        "description": "CRNGO pour électroménager",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 111,
+        "nomProduct": "CRNGO pour moteur industriel",
+        "imgProduct": "CRNGO Industrial Motor.jpg",
+        "description": "CRNGO pour moteur industriel",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 112,
+        "nomProduct": "CRNGO pour production d'énergie",
+        "imgProduct": "CRNGO Power Generation.jpg",
+        "description": "CRNGO pour production d'énergie",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 113,
+        "nomProduct": "Acier électrique CGO",
+        "imgProduct": "CGO Electrical Steel.jpg",
+        "description": "Acier électrique CGO",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 114,
+        "nomProduct": "CRGO à haute induction (domaine affiné)",
+        "imgProduct": "CRGO Domamin Refined High Induction.jpg",
+        "description": "CRGO à haute induction (domaine affiné)",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 115,
+        "nomProduct": "CRGO à haute induction",
+        "imgProduct": "CRGO High Induction.jpg",
+        "description": "CRGO à haute induction",
+        "subCategory": 24,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 116,
+        "nomProduct": "Plaque en aluminium 1060",
+        "imgProduct": "1060 Aluminum Plate.jpg",
+        "description": "Plaque en aluminium 1060",
+        "subCategory": 25,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 117,
+        "nomProduct": "Plaque en aluminium 3003",
+        "imgProduct": "3003 Aluminum Plate.jpg",
+        "description": "Plaque en aluminium 3003",
+        "subCategory": 25,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 118,
+        "nomProduct": "Plaque en aluminium 5052",
+        "imgProduct": "5052 Aluminum Plate.jpg",
+        "description": "Plaque en aluminium 5052",
+        "subCategory": 25,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 120,
+        "nomProduct": "Plaque en aluminium 6061",
+        "imgProduct": "6061 Aluminum Plate.jpg",
+        "description": "Plaque en aluminium 6061",
+        "subCategory": 25,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 121,
+        "nomProduct": "Plaque en aluminium 7075",
+        "imgProduct": "7075 Aluminum Plate.jpg",
+        "description": "Plaque en aluminium 7075",
+        "subCategory": 25,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 122,
+        "nomProduct": "Bobine en aluminium 1060",
+        "imgProduct": "1060 Aluminum Coil.jpg",
+        "description": "Bobine en aluminium 1060",
+        "subCategory": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 123,
+        "nomProduct": "Bobine en aluminium 3003",
+        "imgProduct": "3003 Aluminum Coil.jpg",
+        "description": "Bobine en aluminium 3003",
+        "subCategory": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 124,
+        "nomProduct": "Bobine en aluminium 5052",
+        "imgProduct": "5052 Aluminum Coil.jpg",
+        "description": "Bobine en aluminium 5052",
+        "subCategory": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 125,
+        "nomProduct": "Bobine en aluminium 6061",
+        "imgProduct": "6061 Aluminum Coil.jpg",
+        "description": "Bobine en aluminium 6061",
+        "subCategory": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 126,
+        "nomProduct": "Bobine en aluminium 7075",
+        "imgProduct": "7075 Aluminum Coil.jpg",
+        "description": "Bobine en aluminium 7075",
+        "subCategory": 26,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 127,
+        "nomProduct": "Tube en aluminium 1060",
+        "imgProduct": "1060 Aluminum Pipe.jpg",
+        "description": "Tube en aluminium 1060",
+        "subCategory": 27,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 128,
+        "nomProduct": "Tube en aluminium 3003",
+        "imgProduct": "3003 Aluminum Pipe.jpg",
+        "description": "Tube en aluminium 3003",
+        "subCategory": 27,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 129,
+        "nomProduct": "Tube en aluminium 5052",
+        "imgProduct": "5052 Aluminum Pipe.jpg",
+        "description": "Tube en aluminium 5052",
+        "subCategory": 27,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 130,
+        "nomProduct": "Tube en aluminium 6061",
+        "imgProduct": "6061 Aluminum Pipe.jpg",
+        "description": "Tube en aluminium 6061",
+        "subCategory": 27,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 131,
+        "nomProduct": "Tube en aluminium 7075",
+        "imgProduct": "7075 Aluminum Pipe.jpg",
+        "description": "Tube en aluminium 7075",
+        "subCategory": 27,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 132,
+        "nomProduct": "Plaque en cuivre (série C)",
+        "imgProduct": "C Copper Plate.jpg",
+        "description": "Plaque en cuivre (série C)",
+        "subCategory": 30,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 133,
+        "nomProduct": "Plaque en cuivre TU",
+        "imgProduct": "TU Copper Plate.jpg",
+        "description": "Plaque en cuivre TU",
+        "subCategory": 30,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 134,
+        "nomProduct": "Plaque en laiton (série H)",
+        "imgProduct": "H Brass Plate.jpg",
+        "description": "Plaque en laiton (série H)",
+        "subCategory": 30,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 135,
+        "nomProduct": "Bobine en laiton (série C)",
+        "imgProduct": "C Brass Coil.jpg",
+        "description": "Bobine en laiton (série C)",
+        "subCategory": 29,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 136,
+        "nomProduct": "Bobine en cuivre (série T)",
+        "imgProduct": "T Copper Coil.jpg",
+        "description": "Bobine en cuivre (série T)",
+        "subCategory": 29,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 137,
+        "nomProduct": "Bobine en laiton (série H)",
+        "imgProduct": "H Brass Coil.jpg",
+        "description": "Bobine en laiton (série H)",
+        "subCategory": 29,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 139,
+        "nomProduct": "Tube en cuivre (série T)",
+        "imgProduct": "T Copper Pipe.jpg",
+        "description": "Tube en cuivre (série T)",
+        "subCategory": 31,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 140,
+        "nomProduct": "Tube en cuivre (série C)",
+        "imgProduct": "C Copper Pipe.jpg",
+        "description": "Tube en cuivre (série C)",
+        "subCategory": 31,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 141,
+        "nomProduct": "Tube en laiton (série C)",
+        "imgProduct": "C Brass Pipe.jpg",
+        "description": "Tube en laiton (série C)",
+        "subCategory": 31,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 142,
+        "nomProduct": "Barre en cuivre (série T)",
+        "imgProduct": "T Copper Bar.jpg",
+        "description": "Barre en cuivre (série T)",
+        "subCategory": 32,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 143,
+        "nomProduct": "Barre en cuivre (série C)",
+        "imgProduct": "C Copper Bar.jpg",
+        "description": "Barre en cuivre (série C)",
+        "subCategory": 32,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 144,
+        "nomProduct": "Barre en laiton (série H)",
+        "imgProduct": "H Brass Bar.jpg",
+        "description": "Barre en laiton (série H)",
+        "subCategory": 32,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 145,
+        "nomProduct": "Barre en laiton (série C)",
+        "imgProduct": "C Brass Bar.jpg",
+        "description": "Barre en laiton (série C)",
+        "subCategory": 32,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 146,
+        "nomProduct": "Acier martensitique Docol 900M",
+        "imgProduct": "Docol 900M Martensitic Steels (MS).jpg",
+        "description": "Acier martensitique Docol 900M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 147,
+        "nomProduct": "Acier martensitique Docol 1100M",
+        "imgProduct": "Docol 1100M Martensitic Steel (MS).jpg",
+        "description": "Acier martensitique Docol 1100M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 148,
+        "nomProduct": "Acier martensitique Docol 1200M",
+        "imgProduct": "Docol 1200M Martensitic Steel (MS).jpg",
+        "description": "Acier martensitique Docol 1200M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 149,
+        "nomProduct": "Acier martensitique Docol 1300M",
+        "imgProduct": "Docol 1300M Martensitic Steel (MS).jpg",
+        "description": "Acier martensitique Docol 1300M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 150,
+        "nomProduct": "Acier martensitique Docol 1400M",
+        "imgProduct": "Docol 1400M Martensitic Steel (MS).jpg",
+        "description": "Acier martensitique Docol 1400M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 151,
+        "nomProduct": "Acier martensitique Docol 1500M",
+        "imgProduct": "Docol 1500M Martensitic Steel (MS).jpg",
+        "description": "Acier martensitique Docol 1500M (MS)",
+        "subCategory": 33,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 152,
+        "nomProduct": "Acier thermoformé Docol PHS 1800M",
+        "imgProduct": "Docol PHS 1800M Hot Formed Steel (PHS).jpg",
+        "description": "Acier thermoformé Docol PHS 1800M (PHS)",
+        "subCategory": 34,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 153,
+        "nomProduct": "Acier thermoformé Docol PHS 1500M",
+        "imgProduct": "Docol PHS 1500M Hot Formed Steel.jpg",
+        "description": "Acier thermoformé Docol PHS 1500M",
+        "subCategory": 34,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 154,
+        "nomProduct": "Acier thermoformé Docol PHS CR2000",
+        "imgProduct": "Docol PHS CR2000 Hot-Formed Steel.jpg",
+        "description": "Acier thermoformé Docol PHS CR2000",
+        "subCategory": 34,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 155,
+        "nomProduct": "Acier à phases complexes Docol 600CP",
+        "imgProduct": "Docol 600CP Complex Phase Steel (CP).jpg",
+        "description": "Acier à phases complexes Docol 600CP (CP)",
+        "subCategory": 35,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 156,
+        "nomProduct": "Acier à phases complexes Docol 800CP",
+        "imgProduct": "Docol 800CP Complex Phase Steel (CP).jpg",
+        "description": "Acier à phases complexes Docol 800CP (CP)",
+        "subCategory": 35,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 157,
+        "nomProduct": "Acier à phases complexes Docol 1000CP",
+        "imgProduct": "Docol 1000CP Complex Phase Steel.jpg",
+        "description": "Acier à phases complexes Docol 1000CP",
+        "subCategory": 35,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 158,
+        "nomProduct": "Acier à phases complexes Docol 1200CP",
+        "imgProduct": "Docol 1200CP Complex Phase Steel.jpg",
+        "description": "Acier à phases complexes Docol 1200CP",
+        "subCategory": 35,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 159,
+        "nomProduct": "Acier à haute ductilité de bord Docol 355HE",
+        "imgProduct": "Docol 355HE High Edge Ductility Steel.jpg",
+        "description": "Acier à haute ductilité de bord Docol 355HE",
+        "subCategory": 36,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 160,
+        "nomProduct": "Acier à haute ductilité de bord Docol 420HE",
+        "imgProduct": "Docol 420HE High Edge Ductility Steel.jpg",
+        "description": "Acier à haute ductilité de bord Docol 420HE",
+        "subCategory": 36,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 161,
+        "nomProduct": "Acier à haute ductilité de bord Docol 500HE",
+        "imgProduct": "Docol 500HE High Edge Ductility Steel.jpg",
+        "description": "Acier à haute ductilité de bord Docol 500HE",
+        "subCategory": 36,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 162,
+        "nomProduct": "Acier biphasé Docol 800DP",
+        "imgProduct": "Docol 800DP Dual Phase Steel.jpg",
+        "description": "Acier biphasé Docol 800DP",
+        "subCategory": 37,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 163,
+        "nomProduct": "Acier biphasé Docol 500DP",
+        "imgProduct": "Docol 500DP Dual Phase Steel.jpg",
+        "description": "Acier biphasé Docol 500DP",
+        "subCategory": 37,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 164,
+        "nomProduct": "Acier biphasé Docol 1000DP",
+        "imgProduct": "Docol 1000DP Dual Phase Steel.jpg",
+        "description": "Acier biphasé Docol 1000DP",
+        "subCategory": 37,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 165,
+        "nomProduct": "Acier HSLA Docol 420LA",
+        "imgProduct": "Docol 420LA High Strength Low Alloy Steel.jpg",
+        "description": "Acier à haute résistance faiblement allié Docol 420LA",
+        "subCategory": 38,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 166,
+        "nomProduct": "Acier HSLA Docol 500LA",
+        "imgProduct": "Docol 500LA High Strength Low Alloy Steel.jpg",
+        "description": "Acier à haute résistance faiblement allié Docol 500LA",
+        "subCategory": 38,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 167,
+        "nomProduct": "Acier HSLA Docol 600LA",
+        "imgProduct": "Docol 600LA High Strength Low Alloy Steel.jpg",
+        "description": "Acier à haute résistance faiblement allié Docol 600LA",
+        "subCategory": 38,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 168,
+        "nomProduct": "Fer blanc laminé à froid réduit",
+        "imgProduct": "Reduced Cold-Rolled Tinplate.jpg",
+        "description": "Fer blanc laminé à froid réduit",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 169,
+        "nomProduct": "Fer blanc électrolytique",
+        "imgProduct": "Electrolytic Tinplate .jpg",
+        "description": "Fer blanc électrolytique",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 170,
+        "nomProduct": "Fer blanc à épaisseur uniforme",
+        "imgProduct": "Equal Thickness Tinplate.jpg",
+        "description": "Fer blanc à épaisseur uniforme",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 171,
+        "nomProduct": "Fer blanc à épaisseur différentielle",
+        "imgProduct": "Differential Thickness Tinplate.jpg",
+        "description": "Fer blanc à épaisseur différentielle",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 172,
+        "nomProduct": "Fer blanc alimentaire MR",
+        "imgProduct": "MR Food Grade Tinplate.jpg",
+        "description": "Fer blanc alimentaire MR",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 173,
+        "nomProduct": "Plaque chromée TFS",
+        "imgProduct": "TFS Chrome Plate.jpg",
+        "description": "Plaque chromée TFS",
+        "subCategory": 45,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 174,
+        "nomProduct": "Bobine de fer blanc laminé à froid réduit",
+        "imgProduct": "Reduced Cold-Rolled Tinplate Coil.jpg",
+        "description": "Bobine de fer blanc laminé à froid réduit",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 175,
+        "nomProduct": "Bobine de fer blanc à épaisseur uniforme",
+        "imgProduct": "Equal Thickness Tinplate Coil.jpg",
+        "description": "Bobine de fer blanc à épaisseur uniforme",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 176,
+        "nomProduct": "Bobine de fer blanc à épaisseur différentielle",
+        "imgProduct": "Differential Thickness Tinplate Coil.jpg",
+        "description": "Bobine de fer blanc à épaisseur différentielle",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 177,
+        "nomProduct": "Bobine de fer blanc alimentaire MR",
+        "imgProduct": "MR Food Grade Tinplate Coil.jpg",
+        "description": "Bobine de fer blanc alimentaire MR",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 178,
+        "nomProduct": "Bobine chromée TFS",
+        "imgProduct": "TFS Chrome Coil.jpg",
+        "description": "Bobine chromée TFS",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 179,
+        "nomProduct": "Bobine de fer blanc électrolytique",
+        "imgProduct": "Electrolytic Tinplate Coil.jpg",
+        "description": "Bobine de fer blanc électrolytique",
+        "subCategory": 46,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 180,
+        "nomProduct": "Poutre H en acier inoxydable",
+        "imgProduct": "Stainless Steel H Steel.jpg",
+        "description": "Poutre H en acier inoxydable",
+        "subCategory": 39,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 181,
+        "nomProduct": "Poutre H en acier au carbone",
+        "imgProduct": "Carbon Steel H Steel.jpg",
+        "description": "Poutre H en acier au carbone",
+        "subCategory": 39,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 182,
+        "nomProduct": "Poutre H galvanisée",
+        "imgProduct": "Galvanized H Steel.jpg",
+        "description": "Poutre H galvanisée",
+        "subCategory": 39,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 183,
+        "nomProduct": "Poutrelle I en acier inoxydable",
+        "imgProduct": "Stainless Steel I-Beam.jpg",
+        "description": "Poutrelle I en acier inoxydable",
+        "subCategory": 40,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 184,
+        "nomProduct": "Poutrelle I en acier au carbone",
+        "imgProduct": "Carbon Steel I-Beam.jpg",
+        "description": "Poutrelle I en acier au carbone",
+        "subCategory": 40,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 185,
+        "nomProduct": "Poutrelle I galvanisée",
+        "imgProduct": "Galvanized I-Steel.jpg",
+        "description": "Poutrelle I galvanisée",
+        "subCategory": 40,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 186,
+        "nomProduct": "Profilé en U en acier inoxydable",
+        "imgProduct": "Stainless Steel Channel.jpg",
+        "description": "Profilé en U en acier inoxydable",
+        "subCategory": 41,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 187,
+        "nomProduct": "Profilé en U en acier au carbone",
+        "imgProduct": "Carbon Steel Channel.jpg",
+        "description": "Profilé en U en acier au carbone",
+        "subCategory": 41,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 188,
+        "nomProduct": "Profilé en U galvanisé",
+        "imgProduct": "Galvanized Channel Steel.jpg",
+        "description": "Profilé en U galvanisé",
+        "subCategory": 41,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 189,
+        "nomProduct": "Cornière en acier inoxydable",
+        "imgProduct": "Stainless Steel Angle Steel.jpg",
+        "description": "Cornière en acier inoxydable",
+        "subCategory": 42,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 190,
+        "nomProduct": "Cornière en acier au carbone",
+        "imgProduct": "Carbon Steel Angle.jpg",
+        "description": "Cornière en acier au carbone",
+        "subCategory": 42,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 191,
+        "nomProduct": "Cornière galvanisée",
+        "imgProduct": "Galvanized Angle Steel.jpg",
+        "description": "Cornière galvanisée",
+        "subCategory": 42,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 192,
+        "nomProduct": "Tube carré creux HSS en acier",
+        "imgProduct": "Square Steel HSS Tube.jpg",
+        "description": "Tube carré creux HSS en acier",
+        "subCategory": 43,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 193,
+        "nomProduct": "Tube rectangulaire creux HSS en acier",
+        "imgProduct": "Rectangular Steel HSS Tube.jpg",
+        "description": "Tube rectangulaire creux HSS en acier",
+        "subCategory": 43,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 194,
+        "nomProduct": "Section creuse circulaire CHS en acier",
+        "imgProduct": "CHS Circular Steel Hollow Section.jpg",
+        "description": "Section creuse circulaire CHS en acier",
+        "subCategory": 43,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 195,
+        "nomProduct": "Boulons",
+        "imgProduct": "Bolts.jpg",
+        "description": "Boulons",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 196,
+        "nomProduct": "Rondelles plates",
+        "imgProduct": "Flat Washers.jpg",
+        "description": "Rondelles plates",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 197,
+        "nomProduct": "Écrous",
+        "imgProduct": "Nuts.jpg",
+        "description": "Écrous",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 198,
+        "nomProduct": "Vis",
+        "imgProduct": "Screws.jpg",
+        "description": "Vis",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 199,
+        "nomProduct": "Tarauds",
+        "imgProduct": "Taps.jpg",
+        "description": "Tarauds",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 200,
+        "nomProduct": "Goujons",
+        "imgProduct": "Studs.jpg",
+        "description": "Goujons",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 201,
+        "nomProduct": "Écrous ressort",
+        "imgProduct": "Spring Nuts.jpg",
+        "description": "Écrous ressort",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 202,
+        "nomProduct": "Boulons d'ancrage",
+        "imgProduct": "Anchor Bolts.jpg",
+        "description": "Boulons d'ancrage",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 203,
+        "nomProduct": "Fixations en acier au carbone",
+        "imgProduct": "Carbon Steel Fasteners.jpg",
+        "description": "Fixations en acier au carbone",
+        "subCategory": 44,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 204,
+        "nomProduct": "Barre en aluminium 1050",
+        "imgProduct": "1050 Aluminum Bar.jpg",
+        "description": "Barre en aluminium 1050",
+        "subCategory": 28,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 205,
+        "nomProduct": "Barre en aluminium 3003",
+        "imgProduct": "3003 Aluminum Bar.jpg",
+        "description": "Barre en aluminium 3003",
+        "subCategory": 28,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 206,
+        "nomProduct": "Barre en aluminium 5005",
+        "imgProduct": "5005 Aluminum Bar.jpg",
+        "description": "Barre en aluminium 5005",
+        "subCategory": 28,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 207,
+        "nomProduct": "Barre en aluminium 6061",
+        "imgProduct": "6061 Aluminum Bar.jpg",
+        "description": "Barre en aluminium 6061",
+        "subCategory": 28,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 208,
+        "nomProduct": "Barre en aluminium 7075",
+        "imgProduct": "7075 Aluminum Bar.jpg",
+        "description": "Barre en aluminium 7075",
+        "subCategory": 28,
+        "created_at": null,
+        "updated_at": null
+    }
+]

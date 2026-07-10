@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "Chariots élévateurs",
+        "category": 1,
+        "created_at": "2026-06-30 21:39:03",
+        "updated_at": "2026-06-30 21:39:03"
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "Reach Stackers",
+        "category": 2,
+        "created_at": "2026-06-30 21:39:18",
+        "updated_at": "2026-06-30 21:39:18"
+    },
+    {
+        "id": 3,
+        "nomSubCategory": "Télescopiques",
+        "category": 3,
+        "created_at": "2026-06-30 21:39:32",
+        "updated_at": "2026-06-30 21:39:32"
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "Matériel de levage \/ Équipements de manutention",
+        "category": 4,
+        "created_at": "2026-06-30 21:39:38",
+        "updated_at": "2026-06-30 21:39:38"
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nomSubCategory": "HACHEUR DE MAÏS",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 2,
+        "nomSubCategory": "RÉCOLTEUSE DE FOURRAGE",
+        "category": 1,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 3,
+        "nomSubCategory": "TONDEUSE",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 4,
+        "nomSubCategory": "RÂTEAUX",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 5,
+        "nomSubCategory": "MOISSONNEUR",
+        "category": 2,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 6,
+        "nomSubCategory": "EMBALLAGE",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 7,
+        "nomSubCategory": "BALLE",
+        "category": 3,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 8,
+        "nomSubCategory": "ALIMENTATION",
+        "category": 4,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 9,
+        "nomSubCategory": "ENGRAIS",
+        "category": 5,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 10,
+        "nomSubCategory": "PULVÉRISATEUR",
+        "category": 6,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 11,
+        "nomSubCategory": "FUMIER",
+        "category": 7,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 12,
+        "nomSubCategory": "FERME",
+        "category": 8,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 13,
+        "nomSubCategory": "TRAITE – PRODUITS LAITIERS",
+        "category": 9,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 14,
+        "nomSubCategory": "SEMOIR",
+        "category": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 15,
+        "nomSubCategory": "PRÉPARATIONS DU SOL",
+        "category": 10,
+        "created_at": null,
+        "updated_at": null
+    },
+    {
+        "id": 16,
+        "nomSubCategory": "ÉQUIPEMENT",
+        "category": 11,
+        "created_at": null,
+        "updated_at": null
+    }
+]
