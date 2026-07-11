@@ -569,7 +569,7 @@
                             Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
                         </h1>
                         <p class="wow fadeIn" data-wow-delay="1.9s">Systèmes et équipements industriels complets</p>
-                        <a href="#catalogue">
+                        <a href="#secteurs">
                             <button style="background-color: #003580;border-color: #003580;"
                                 class="btn btn-info wow fadeIn" data-wow-delay="2.1s">
                                 En savoir plus
@@ -761,7 +761,7 @@
     </div>
 
     <!-- ── Section Nos Secteurs ── -->
-    <section style="background: #f8f9fb; border-top: 4px solid #F47920; padding: 60px 0 0;">
+    <section id="secteurs" style="background: #f8f9fb; border-top: 4px solid #F47920; padding: 60px 0 0;">
         <div class="container text-center wow fadeIn" data-wow-delay="0.1s">
             <p style="font-size: 10px; font-weight: 700; letter-spacing: 4px; text-transform: uppercase; color: #F47920; margin-bottom: 12px;">Nos Domaines</p>
             <h2 style="font-family:'Montserrat',sans-serif; font-size: 2.3rem; font-weight: 800; color: #001228; margin-bottom: 14px;">
@@ -860,101 +860,6 @@
             </div>
         </div>
     </section>
-
-    <div id="catalogue" style="background: linear-gradient(135deg, #001228 0%, #003580 60%, #001f4d 100%); padding: 70px 0;">
-        <div class="container">
-            <div class="row align-items-center">
-
-                {{-- Colonne gauche : texte --}}
-                <div class="col-lg-6 wow fadeInLeft" data-wow-delay="0.2s" style="padding-right: 48px;">
-                    <p style="font-size: 11px; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: #F47920; margin-bottom: 14px;">
-                        Catalogue Produits
-                    </p>
-                    <h2 style="font-size: 2rem; font-weight: 900; color: #fff; line-height: 1.3; margin-bottom: 18px;">
-                        11 catalogues,<br>un produit pour chaque besoin
-                    </h2>
-                    <p style="font-size: 15px; color: rgba(255,255,255,0.72); line-height: 1.8; margin-bottom: 32px;">
-                        Chaque secteur dispose de son propre catalogue détaillé : industriel, agricole, métallurgie, robotique et bien plus. Téléchargez gratuitement celui qui correspond à votre activité.
-                    </p>
-
-                    {{-- Stats --}}
-                    <div style="display: flex; gap: 32px; margin-bottom: 36px;">
-                        <div style="text-align: center;">
-                            <div style="font-size: 28px; font-weight: 900; color: #F47920; line-height: 1;">2 500+</div>
-                            <div style="font-size: 11px; color: rgba(255,255,255,0.6); letter-spacing: 1px; text-transform: uppercase; margin-top: 4px;">Produits référencés</div>
-                        </div>
-                        <div style="width: 1px; background: rgba(255,255,255,0.15);"></div>
-                        <div style="text-align: center;">
-                            <div style="font-size: 28px; font-weight: 900; color: #F47920; line-height: 1;">6</div>
-                            <div style="font-size: 11px; color: rgba(255,255,255,0.6); letter-spacing: 1px; text-transform: uppercase; margin-top: 4px;">Secteurs couverts</div>
-                        </div>
-                        <div style="width: 1px; background: rgba(255,255,255,0.15);"></div>
-                        <div style="text-align: center;">
-                            <div style="font-size: 28px; font-weight: 900; color: #F47920; line-height: 1;">PDF</div>
-                            <div style="font-size: 11px; color: rgba(255,255,255,0.6); letter-spacing: 1px; text-transform: uppercase; margin-top: 4px;">Téléchargement gratuit</div>
-                        </div>
-                    </div>
-
-                    <a href="/nos-catalogues">
-                        <button style="background-color: #F47920; border: none; padding: 14px 38px; font-size: 15px; font-weight: 700; border-radius: 6px; color: #fff; transition: background 0.2s, transform 0.2s; cursor: pointer;"
-                            onmouseover="this.style.background='#d4660f'; this.style.transform='translateY(-2px)';"
-                            onmouseout="this.style.background='#F47920'; this.style.transform='translateY(0)';">
-                            Voir nos Catalogues &nbsp;&#8594;
-                        </button>
-                    </a>
-                </div>
-
-                {{-- Colonne droite : visuel catalogue --}}
-                <div class="col-lg-6 wow fadeInRight" data-wow-delay="0.4s" style="display: flex; justify-content: center; margin-top: 40px;">
-                    <div style="position: relative; width: 340px;">
-                        <div style="background: #fff; border-radius: 16px; padding: 28px 26px; box-shadow: 0 24px 60px rgba(0,0,0,0.4);">
-                            {{-- En-tête carte --}}
-                            <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 20px; padding-bottom: 16px; border-bottom: 2px solid #f0f0f0;">
-                                <div style="width: 46px; height: 46px; background: #003580; border-radius: 10px; display: flex; align-items: center; justify-content: center; flex-shrink:0;">
-                                    <i class="fa fa-file-text-o" style="font-size: 20px; color: #fff;"></i>
-                                </div>
-                                <div>
-                                    <div style="font-size: 13px; font-weight: 800; color: #001f4d;">SOMAFIAM S.A</div>
-                                    <div style="font-size: 11px; color: #888;">11 catalogues · Format PDF</div>
-                                </div>
-                                <div style="margin-left: auto; background: #003580; color: #fff; font-size: 11px; font-weight: 700; padding: 3px 10px; border-radius: 20px;">2025</div>
-                            </div>
-
-                            {{-- Lignes par catégorie --}}
-                            @php
-                            $cats = [
-                                ['label' => 'Industriel',    'count' => 7, 'color' => '#003580', 'bg' => '#e8f0ff'],
-                                ['label' => 'Métallurgie',   'count' => 1, 'color' => '#bf360c', 'bg' => '#fce4d6'],
-                                ['label' => 'Agriculture',   'count' => 1, 'color' => '#2e7d32', 'bg' => '#e8f5e9'],
-                                ['label' => 'Robotique',     'count' => 1, 'color' => '#6a1b9a', 'bg' => '#f3e5f5'],
-                                ['label' => 'Construction',  'count' => 1, 'color' => '#e65100', 'bg' => '#fff3e0'],
-                            ];
-                            @endphp
-                            @foreach($cats as $c)
-                            <div style="display: flex; align-items: center; justify-content: space-between; padding: 8px 0; border-bottom: 1px solid #f5f5f5;">
-                                <div style="display: flex; align-items: center; gap: 10px;">
-                                    <div style="width: 8px; height: 8px; border-radius: 50%; background: {{ $c['color'] }}; flex-shrink:0;"></div>
-                                    <span style="font-size: 12.5px; color: #222; font-weight: 600;">{{ $c['label'] }}</span>
-                                </div>
-                                <span style="font-size: 11px; font-weight: 700; color: {{ $c['color'] }}; background: {{ $c['bg'] }}; padding: 2px 10px; border-radius: 20px;">
-                                    {{ $c['count'] }} catalogue{{ $c['count'] > 1 ? 's' : '' }}
-                                </span>
-                            </div>
-                            @endforeach
-
-                            <div style="margin-top: 16px; display: flex; align-items: center; justify-content: space-between;">
-                                <span style="font-size: 11px; color: #aaa;">Téléchargement gratuit</span>
-                                <span style="font-size: 13px; font-weight: 800; color: #F47920;">11 au total</span>
-                            </div>
-                        </div>
-                        {{-- Carte derrière (effet stack) --}}
-                        <div style="position: absolute; top: -10px; left: 12px; right: -12px; height: 100%; background: rgba(244,121,32,0.25); border-radius: 16px; z-index: -1;"></div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </div>
 
 
     <!-- ── Section Chiffres Clés ── -->
@@ -1061,122 +966,6 @@
         var statsSection = document.querySelector('.stat-number');
         if (statsSection) statsObserver.observe(statsSection.closest('section'));
     </script>
-
-    <!-- ── Section Pourquoi nous choisir ── -->
-    <section class="wow fadeIn" data-wow-delay="0.2s" style="background: #f4f6fb; padding: 80px 0;">
-        <div class="container">
-            <div class="text-center" style="margin-bottom: 55px;">
-                <h2 style="font-family:'Montserrat',sans-serif; font-weight:700; font-size:1.9rem; color:#003580; letter-spacing:2px; text-transform:uppercase;">
-                    Pourquoi <span style="color:#F47920;">nous choisir</span> ?
-                </h2>
-                <div style="width:50px; height:3px; background:#F47920; margin:14px auto 0; border-radius:2px;"></div>
-            </div>
-
-            <div class="row">
-                <div class="col-md-4 mb-4 mb-md-0 wow fadeIn" data-wow-delay="0.3s">
-                    <div class="pnc-card">
-                        <div class="pnc-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                                <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
-                                <polyline points="3.27 6.96 12 12.01 20.73 6.96"/>
-                                <line x1="12" y1="22.08" x2="12" y2="12"/>
-                            </svg>
-                        </div>
-                        <h4 class="pnc-title">Catalogue étendu</h4>
-                        <div class="pnc-line"></div>
-                        <p class="pnc-desc">Plus de 2 500 produits référencés couvrant l'industriel, l'agricole, la métallurgie, la robotique et bien plus — tout en un seul fournisseur.</p>
-                    </div>
-                </div>
-
-                <div class="col-md-4 mb-4 mb-md-0 wow fadeIn" data-wow-delay="0.5s">
-                    <div class="pnc-card pnc-card--featured">
-                        <div class="pnc-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                                <circle cx="12" cy="12" r="10"/>
-                                <polyline points="12 6 12 12 16 14"/>
-                            </svg>
-                        </div>
-                        <h4 class="pnc-title">Réactivité & disponibilité</h4>
-                        <div class="pnc-line"></div>
-                        <p class="pnc-desc">Des délais maîtrisés et un stock disponible pour répondre rapidement aux besoins de vos projets industriels, sans interruption de production.</p>
-                    </div>
-                </div>
-
-                <div class="col-md-4 wow fadeIn" data-wow-delay="0.7s">
-                    <div class="pnc-card">
-                        <div class="pnc-icon">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-                                <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
-                                <circle cx="9" cy="7" r="4"/>
-                                <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
-                                <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
-                            </svg>
-                        </div>
-                        <h4 class="pnc-title">Expertise & accompagnement</h4>
-                        <div class="pnc-line"></div>
-                        <p class="pnc-desc">22 ans d'expérience au service des entreprises marocaines. Nos experts vous conseillent et vous accompagnent de la sélection des équipements à la livraison.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <style>
-        .pnc-card {
-            background: #fff;
-            border-radius: 14px;
-            padding: 40px 28px 32px;
-            text-align: center;
-            box-shadow: 0 4px 20px rgba(0,53,128,0.08);
-            border-top: 4px solid #e0e8f4;
-            height: 100%;
-            transition: transform 0.3s ease, box-shadow 0.3s ease, border-color 0.3s ease;
-        }
-        .pnc-card:hover {
-            transform: translateY(-6px);
-            box-shadow: 0 12px 36px rgba(0,53,128,0.14);
-            border-top-color: #003580;
-        }
-        .pnc-card--featured {
-            border-top-color: #F47920;
-            box-shadow: 0 8px 32px rgba(244,121,32,0.13);
-        }
-        .pnc-card--featured:hover { border-top-color: #F47920; }
-        .pnc-icon {
-            width: 64px; height: 64px;
-            background: linear-gradient(135deg, #e8f0ff, #f0f4ff);
-            border-radius: 50%;
-            display: flex; align-items: center; justify-content: center;
-            margin: 0 auto 22px;
-            color: #003580;
-        }
-        .pnc-card--featured .pnc-icon {
-            background: linear-gradient(135deg, #fff3eb, #ffe8d6);
-            color: #F47920;
-        }
-        .pnc-icon svg { width: 28px; height: 28px; }
-        .pnc-title {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 1rem;
-            font-weight: 700;
-            color: #1a1a2e;
-            margin-bottom: 12px;
-        }
-        .pnc-line {
-            width: 35px; height: 3px;
-            background: #003580;
-            border-radius: 2px;
-            margin: 0 auto 16px;
-        }
-        .pnc-card--featured .pnc-line { background: #F47920; }
-        .pnc-desc {
-            font-family: 'Montserrat', sans-serif;
-            font-size: 0.86rem;
-            color: #666;
-            line-height: 1.75;
-            margin: 0;
-        }
-    </style>
 
     @include('Footer')
 

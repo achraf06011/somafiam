@@ -277,67 +277,84 @@
             display: none;
         }
 
-        /* ---- Cat Card ---- */
+        /* ---- Cat Card (Premium) ---- */
         .cat-card {
             display: block;
             text-decoration: none;
             background: #001228;
-            border-radius: 10px;
+            border-radius: 16px;
             overflow: hidden;
-            box-shadow: 0 2px 14px rgba(0, 31, 77, 0.12);
-            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            box-shadow: 0 4px 16px rgba(0, 31, 77, 0.14), 0 1px 3px rgba(0, 31, 77, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            transition: transform 0.35s cubic-bezier(.22,1,.36,1), box-shadow 0.35s cubic-bezier(.22,1,.36,1);
             margin-bottom: 24px;
             position: relative;
         }
         .cat-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 32px rgba(0, 31, 77, 0.25);
+            transform: translateY(-8px);
+            box-shadow: 0 22px 42px rgba(0, 31, 77, 0.30), 0 6px 16px rgba(244, 121, 32, 0.14);
         }
         .cat-card__img {
             overflow: hidden;
             height: 220px;
+            position: relative;
+        }
+        .cat-card__img::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(0, 18, 40, 0) 45%, rgba(0, 18, 40, 0.92) 100%);
         }
         .cat-card__img img {
             width: 100%;
             height: 100%;
             object-fit: cover;
             display: block;
-            transition: transform 0.4s ease;
+            transition: transform 0.6s cubic-bezier(.22,1,.36,1);
         }
         .cat-card:hover .cat-card__img img {
-            transform: scale(1.07);
+            transform: scale(1.1);
         }
         .cat-card__body {
             position: absolute;
             bottom: 0;
             left: 0;
             right: 0;
-            background: rgba(0, 18, 40, 0.82);
+            z-index: 2;
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 12px 16px;
+            padding: 16px 18px;
         }
         .cat-card__title {
-            font-size: 11.5px;
+            font-size: 12px;
             font-weight: 700;
-            letter-spacing: 1.2px;
+            letter-spacing: 1.3px;
             text-transform: uppercase;
             color: #ffffff;
             margin: 0;
             line-height: 1.4;
             flex: 1;
-            padding-right: 8px;
+            padding-right: 10px;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
         }
         .cat-card__arrow {
-            color: #F47920;
-            font-size: 18px;
+            color: #fff;
+            font-size: 15px;
             font-weight: 700;
-            transition: transform 0.2s ease;
             flex-shrink: 0;
+            width: 34px;
+            height: 34px;
+            border-radius: 50%;
+            background: rgba(244, 121, 32, 0.92);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: transform 0.3s ease, background 0.3s ease;
         }
         .cat-card:hover .cat-card__arrow {
-            transform: translateX(4px);
+            transform: translateX(3px) scale(1.08);
+            background: #F47920;
         }
         .cat-card__img--contain {
             background: #ffffff;
@@ -716,7 +733,7 @@
             <!--    knowledgeable advice.-->
             <!--</p>-->
             <div class="hero-buttons">
-                <a href="#">
+                <a href="#category">
                     <button class="btn quote-btn btn-info wow fadeIn" data-wow-delay="1.3s">Nos Services</button>
                 </a>
                 <button data-wow-delay="2.25s" onclick="toggleVideo()" class="btn play-btn wow fadeIn">
@@ -793,32 +810,16 @@
     <section id="category-section" class="categories-section wow fadeIn" data-wow-delay="0.3s">
         <div class="container">
             <div class="row category-row">
-                @php
-                    $containWhiteFiles = [
-                        'MF.jpg', 'Screw.jpg', 'CM.jpg', 'capacitors.jpg',
-                        'images.jpg',
-                        'MKrEIqoeWXif3NiHf3Og977dpX0oZac5ejgu8RK1.jpg',
-                        'MANOMÈTRE À TUBE DE BOURDON EN ACIER INOXYDABLE.png',
-                    ];
-                    $containDarkFiles = ['Moteurs.png'];
-                    $zoomCoverFiles   = ['5kVA.webp', '6kv.webp', '11kv.webp'];
-                @endphp
                 @foreach ($categories as $index => $categorie)
-                    @php
-                        $basename = $categorie->imgCategory ? basename($categorie->imgCategory) : '';
-                        $imgClass = in_array($basename, $containWhiteFiles) ? 'cat-card__img--contain'
-                                  : (in_array($basename, $containDarkFiles) ? 'cat-card__img--contain-dark' : '');
-                    @endphp
                     <div class="col-md-6 col-lg-4 category-item {{ $index >= 6 ? 'hidden-category' : '' }}">
                         <a href="{{ route('industrielProducts.filterByCategory', ['category' => $categorie->id]) }}"
                             class="cat-card wow fadeIn" data-wow-delay="{{ 0.1 + ($index % 6) * 0.08 }}s">
-                            <div class="cat-card__img {{ $imgClass }}">
+                            <div class="cat-card__img">
                                 @if($categorie->imgCategory)
                                     <img src="{{ asset($categorie->imgCategory) }}"
                                         loading="lazy"
                                         alt="{{ $categorie->nomCategory }}"
-                                        @if(in_array($basename, $zoomCoverFiles)) style="object-fit:cover;object-position:center 70%;"
-                                        @elseif(str_contains($categorie->imgCategory, 'outillage')) style="filter: grayscale(1) brightness(0.75) contrast(1.1);"
+                                        @if(str_contains($categorie->imgCategory, 'outillage')) style="filter: grayscale(1) brightness(0.75) contrast(1.1);"
                                         @endif>
                                 @else
                                     <div style="width:100%;height:100%;background:#dde4ee;display:flex;align-items:center;justify-content:center;">

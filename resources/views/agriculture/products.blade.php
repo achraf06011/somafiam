@@ -117,14 +117,14 @@
             gap: 20px;
         }
 
-        /* ── Product card base ── */
+        /* ── Product card base (Premium) ── */
         .product-card {
             background: #fff;
-            border-radius: 10px;
-            box-shadow: 0 2px 14px rgba(0, 31, 77, 0.08);
-            border: none;
+            border-radius: 14px;
+            box-shadow: 0 2px 10px rgba(0, 31, 77, 0.06), 0 1px 2px rgba(0, 31, 77, 0.05);
+            border: 1px solid #eef1f7;
             border-bottom: 3px solid transparent;
-            transition: transform 0.25s ease, box-shadow 0.25s ease, border-bottom-color 0.25s ease;
+            transition: transform 0.35s cubic-bezier(.22,1,.36,1), box-shadow 0.35s cubic-bezier(.22,1,.36,1), border-color 0.35s ease;
             overflow: hidden;
             display: flex;
             flex-direction: column;
@@ -135,15 +135,16 @@
         }
 
         .product-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 12px 32px rgba(0, 31, 77, 0.16);
+            transform: translateY(-7px);
+            box-shadow: 0 20px 38px rgba(0, 31, 77, 0.14), 0 6px 14px rgba(244, 121, 32, 0.10);
             border-bottom-color: #F47920;
+            border-color: #f6ddc8;
         }
 
         .prod-img-wrap {
             overflow: hidden;
             flex-shrink: 0;
-            background: #fff;
+            background: linear-gradient(180deg, #fbfcfe 0%, #f2f5fa 100%);
             display: flex;
             align-items: center;
             justify-content: center;
@@ -158,27 +159,32 @@
             height: auto;
             object-fit: contain;
             display: block;
-            transition: transform 0.35s ease;
+            transition: transform 0.45s cubic-bezier(.22,1,.36,1);
         }
 
         .product-card:hover .prod-img-wrap img {
-            transform: scale(1.07);
+            transform: scale(1.08);
         }
 
         .prod-body {
-            padding: 13px 15px 15px;
+            padding: 14px 16px 16px;
             flex: 1;
             display: flex;
             flex-direction: column;
         }
 
         .prod-subcat {
-            font-size: 10px;
+            display: inline-block;
+            font-size: 9.5px;
             font-weight: 700;
-            letter-spacing: 1.5px;
+            letter-spacing: 1.3px;
             text-transform: uppercase;
             color: #F47920;
-            margin: 0 0 6px 0;
+            background: rgba(244, 121, 32, 0.09);
+            padding: 3px 9px;
+            border-radius: 20px;
+            margin: 0 0 9px 0;
+            max-width: 100%;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
@@ -214,7 +220,7 @@
         }
 
         .products.list-view .product-card:hover {
-            transform: translateX(4px);
+            transform: translateX(6px);
             border-left-color: #F47920;
             border-bottom-color: transparent;
         }

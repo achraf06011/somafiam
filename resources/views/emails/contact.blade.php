@@ -36,6 +36,12 @@
             <div class="value">{{ $societe }}</div>
         </div>
         @endif
+        @if($fonction)
+        <div class="field">
+            <div class="label">Fonction</div>
+            <div class="value">{{ $fonction }}</div>
+        </div>
+        @endif
         @if($telephone)
         <div class="field">
             <div class="label">Téléphone</div>
@@ -46,6 +52,18 @@
             <div class="label">Pays</div>
             <div class="value">{{ $country }}</div>
         </div>
+        @if($ville)
+        <div class="field">
+            <div class="label">Ville</div>
+            <div class="value">{{ $ville }}</div>
+        </div>
+        @endif
+        @if($adresse)
+        <div class="field">
+            <div class="label">Adresse</div>
+            <div class="value">{{ $adresse }}</div>
+        </div>
+        @endif
         <div class="field">
             <div class="label">Sujet</div>
             <div class="value">{{ $subject }}</div>

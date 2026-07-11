@@ -370,12 +370,16 @@
                                     <input type="text" name="societe" class="form-control" placeholder="Nom de votre société" value="{{ old('societe') }}">
                                 </div>
                                 <div class="col-md-6 input-group-field">
-                                    <label class="form-label-sm">Téléphone</label>
-                                    <input type="tel" name="telephone" class="form-control" placeholder="+212 6XX XXX XXX" value="{{ old('telephone') }}">
+                                    <label class="form-label-sm">Fonction</label>
+                                    <input type="text" name="fonction" class="form-control" placeholder="Ex: Responsable achats" value="{{ old('fonction') }}">
                                 </div>
                             </div>
 
                             <div class="row">
+                                <div class="col-md-6 input-group-field">
+                                    <label class="form-label-sm">Téléphone</label>
+                                    <input type="tel" name="telephone" class="form-control" placeholder="+212 6XX XXX XXX" value="{{ old('telephone') }}">
+                                </div>
                                 <div class="col-md-6 input-group-field">
                                     <label class="form-label-sm">Pays *</label>
                                     <select name="country" class="form-control" required>
@@ -386,10 +390,22 @@
                                         @endforeach
                                     </select>
                                 </div>
+                            </div>
+
+                            <div class="row">
                                 <div class="col-md-6 input-group-field">
-                                    <label class="form-label-sm">Sujet *</label>
-                                    <input type="text" name="subject" class="form-control" placeholder="Ex: Demande de devis" required value="{{ old('subject') }}">
+                                    <label class="form-label-sm">Ville</label>
+                                    <input type="text" name="ville" class="form-control" placeholder="Ex: Casablanca" value="{{ old('ville') }}">
                                 </div>
+                                <div class="col-md-6 input-group-field">
+                                    <label class="form-label-sm">Adresse</label>
+                                    <input type="text" name="adresse" class="form-control" placeholder="Rue, quartier, code postal..." value="{{ old('adresse') }}">
+                                </div>
+                            </div>
+
+                            <div class="input-group-field">
+                                <label class="form-label-sm">Sujet *</label>
+                                <input type="text" name="subject" class="form-control" placeholder="Ex: Demande de devis" required value="{{ old('subject') }}">
                             </div>
 
                             <div class="input-group-field">

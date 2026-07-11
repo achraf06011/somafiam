@@ -129,41 +129,55 @@
             display: block;
             text-decoration: none;
             background: #001228;
-            border-radius: 10px;
+            border-radius: 16px;
             overflow: hidden;
-            box-shadow: 0 2px 14px rgba(0, 31, 77, 0.12);
-            transition: transform 0.25s ease, box-shadow 0.25s ease;
+            box-shadow: 0 4px 16px rgba(0, 31, 77, 0.14), 0 1px 3px rgba(0, 31, 77, 0.08);
+            border: 1px solid rgba(255, 255, 255, 0.06);
+            transition: transform 0.35s cubic-bezier(.22,1,.36,1), box-shadow 0.35s cubic-bezier(.22,1,.36,1);
             margin-bottom: 24px;
             position: relative;
         }
-        .cat-card:hover { transform: translateY(-5px); box-shadow: 0 12px 32px rgba(0, 31, 77, 0.25); }
+        .cat-card:hover { transform: translateY(-8px); box-shadow: 0 22px 42px rgba(0, 31, 77, 0.30), 0 6px 16px rgba(244, 121, 32, 0.14); }
 
-        .cat-card__img { overflow: hidden; height: 220px; }
-        .cat-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.4s ease; }
-        .cat-card:hover .cat-card__img img { transform: scale(1.07); }
+        .cat-card__img { overflow: hidden; height: 220px; position: relative; }
+        .cat-card__img::after {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(to bottom, rgba(0, 18, 40, 0) 45%, rgba(0, 18, 40, 0.92) 100%);
+        }
+        .cat-card__img img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.6s cubic-bezier(.22,1,.36,1); }
+        .cat-card:hover .cat-card__img img { transform: scale(1.1); }
 
         .cat-card__body {
             position: absolute;
             bottom: 0; left: 0; right: 0;
-            background: rgba(0, 18, 40, 0.82);
+            z-index: 2;
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 12px 16px;
+            padding: 16px 18px;
         }
         .cat-card__title {
-            font-size: 11.5px;
+            font-size: 12px;
             font-weight: 700;
-            letter-spacing: 1.2px;
+            letter-spacing: 1.3px;
             text-transform: uppercase;
             color: #ffffff;
             margin: 0;
             line-height: 1.4;
             flex: 1;
-            padding-right: 8px;
+            padding-right: 10px;
+            text-shadow: 0 1px 4px rgba(0, 0, 0, 0.35);
         }
-        .cat-card__arrow { color: #F47920; font-size: 18px; font-weight: 700; transition: transform 0.2s ease; flex-shrink: 0; }
-        .cat-card:hover .cat-card__arrow { transform: translateX(4px); }
+        .cat-card__arrow {
+            color: #fff; font-size: 15px; font-weight: 700; flex-shrink: 0;
+            width: 34px; height: 34px; border-radius: 50%;
+            background: rgba(244, 121, 32, 0.92);
+            display: flex; align-items: center; justify-content: center;
+            transition: transform 0.3s ease, background 0.3s ease;
+        }
+        .cat-card:hover .cat-card__arrow { transform: translateX(3px) scale(1.08); background: #F47920; }
 
         /* ── Toggle button ── */
         .buttons { display: flex; justify-content: space-around; }
