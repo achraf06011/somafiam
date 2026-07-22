@@ -26,7 +26,7 @@
     {
         "id": 4,
         "nomCategory": "ALIMENTATION",
-        "imgCategory": "agricultureCatgories\/P1160424OK.png",
+        "imgCategory": "agricultureCatgories\/alimentation-new.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 7
@@ -50,7 +50,7 @@
     {
         "id": 7,
         "nomCategory": "FUMIER",
-        "imgCategory": "agricultureCatgories\/actu_-_tas_de_fumier_ok.png",
+        "imgCategory": "agricultureCatgories\/fumier-new.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 9
@@ -66,7 +66,7 @@
     {
         "id": 9,
         "nomCategory": "TRAITE – PRODUITS LAITIERS",
-        "imgCategory": "agricultureCatgories\/traitement-des-produits-laitiers.png",
+        "imgCategory": "agricultureCatgories\/traite-laitiere-new.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 6

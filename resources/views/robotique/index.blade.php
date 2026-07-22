@@ -225,6 +225,12 @@
         .buttons button.clicked span:before, .buttons button.clicked span:after { height: 100%; }
         .buttons button.clicked p:before { top: -50%; transform: rotate(5deg); }
         .buttons button.clicked p:after  { top: 50%; transform: translateY(-50%); }
+
+        /* ── Responsive hero/section titles ── */
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 1.8rem; }
+            .company-name { font-size: 20px !important; letter-spacing: 3px !important; padding: 18px 20px !important; }
+        }
     </style>
 
     <script src="{{ asset('js/jquery.min.js') }}"></script>

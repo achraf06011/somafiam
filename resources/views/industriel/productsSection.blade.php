@@ -9,16 +9,16 @@
     <style>
         .logo-mask-top    { position:absolute; top:0;    left:0; right:0; background:#fff; z-index:2; height:36px; }
         .logo-mask-bottom { position:absolute; bottom:0; left:0; right:0; background:#fff; z-index:2; height:44px; }
-        .logo-mask-top-sm { position:absolute; top:0;    left:0; right:0; background:#fff; z-index:2; height:55px; }
+        .logo-mask-top-sm { position:absolute; top:0;    left:0; right:0; background:#fff; z-index:2; height:30px; }
         @media (max-width: 768px) {
             .logo-mask-top    { height: 24px; }
             .logo-mask-bottom { height: 30px; }
-            .logo-mask-top-sm { height: 32px; }
+            .logo-mask-top-sm { height: 18px; }
         }
         @media (max-width: 480px) {
             .logo-mask-top    { height: 20px; }
             .logo-mask-bottom { height: 26px; }
-            .logo-mask-top-sm { height: 26px; }
+            .logo-mask-top-sm { height: 15px; }
         }
     </style>
 </head>
@@ -36,8 +36,8 @@
             @endphp
             <article class="product-card wow fadeIn" data-wow-delay="{{ 0.05 * ($index % 12) }}s"
                 data-subcategory-id="{{ $product->subCategory }}">
-                <div class="prod-img-wrap" @if($maskCategory) style="position:relative;" @endif>
-                    <img src="{{ asset('industrielProducts/' . $product->imgProduct) }}"
+                <div class="prod-img-wrap" @if($maskCategory) style="position:relative;background:#fff;" @endif>
+                    <img class="zoomable-img" src="{{ asset('industrielProducts/' . $product->imgProduct) }}"
                         alt="{{ $product->nomProduct }}" loading="lazy">
                     @if(isset($category) && in_array($category->id, [9005, 9006, 9007]))
                         <div class="logo-mask-top"></div>
@@ -53,6 +53,8 @@
             </article>
         @endforeach
     @endif
+
+    @include('partials.imageLightbox')
 </body>
 
 </html>

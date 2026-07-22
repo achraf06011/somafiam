@@ -566,7 +566,7 @@
                     </video>
                     <div class="carousel-caption carousel-caption1 d-none d-md-block">
                         <h1 class="wow fadeIn" data-wow-delay="1.5s">
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
                         <p class="wow fadeIn" data-wow-delay="1.9s">Systèmes et équipements industriels complets</p>
                         <a href="#secteurs">
@@ -584,15 +584,15 @@
 
                 <div class="carousel-item">
                     <video autoplay loop muted playsinline style="filter: brightness(50%);">
-                        <source src="{{ asset('Videos/v6.mp4') }}" type="video/mp4">
+                        <source src="{{ asset('Videos/v4.mp4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
-                        <p>Solutions avancées en robotique</p>
-                        <a href="{{ route('robotiques') }}">
+                        <p>Équipements agricoles de pointe</p>
+                        <a href="{{ route('agricultureProducts.index') }}">
                             <button style="background-color: #003580;border-color: #003580;" class="btn btn-info">
                                 En savoir plus
                             </button>
@@ -608,7 +608,7 @@
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
                         <p>Expertise en métallurgie industrielle</p>
                         <a href="{{ route('metallurgieProducts.index') }}">
@@ -622,15 +622,15 @@
 
                 <div class="carousel-item">
                     <video autoplay loop muted playsinline style="filter: brightness(50%);">
-                        <source src="{{ asset('Videos/v4.mp4') }}" type="video/mp4">
+                        <source src="{{ asset('Videos/v6.mp4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
-                        <p>Équipements agricoles de pointe</p>
-                        <a href="{{ route('agricultureProducts.index') }}">
+                        <p>Solutions avancées en robotique</p>
+                        <a href="{{ route('robotiques') }}">
                             <button style="background-color: #003580;border-color: #003580;" class="btn btn-info">
                                 En savoir plus
                             </button>
@@ -641,15 +641,15 @@
 
                 <div class="carousel-item">
                     <video autoplay loop muted playsinline style="filter: brightness(50%);">
-                        <source src="{{ asset('Videos/v5.mp4') }}" type="video/mp4">
+                        <source src="{{ asset('Videos/BTP.MP4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
-                        <p>Services d'exportation internationaux</p>
-                        <a href="{{ route('contactShow') }}">
+                        <p>Solutions pour le secteur BTP et construction</p>
+                        <a href="{{ route('btp') }}">
                             <button style="background-color: #003580;border-color: #003580;" class="btn btn-info">
                                 En savoir plus
                             </button>
@@ -660,15 +660,15 @@
 
                 <div class="carousel-item">
                     <video autoplay loop muted playsinline style="filter: brightness(50%);">
-                        <source src="{{ asset('Videos/BTP.MP4') }}" type="video/mp4">
+                        <source src="{{ asset('Videos/Mines.MP4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
-                        <p>Solutions pour le secteur BTP et construction</p>
-                        <a href="{{ route('btp') }}">
+                        <p>Équipements et expertise pour le secteur minier</p>
+                        <a href="{{ route('mines') }}">
                             <button style="background-color: #003580;border-color: #003580;" class="btn btn-info">
                                 En savoir plus
                             </button>
@@ -679,15 +679,15 @@
 
                 <div class="carousel-item">
                     <video autoplay loop muted playsinline style="filter: brightness(50%);">
-                        <source src="{{ asset('Videos/Mines.MP4') }}" type="video/mp4">
+                        <source src="{{ asset('Videos/v5.mp4') }}" type="video/mp4">
                         Your browser does not support the video tag.
                     </video>
                     <div class="carousel-caption d-none d-md-block">
                         <h1>
-                            Société Marocaine de fournitures industrielles agricoles et metallurgie S.A
+                            Société Marocaine de Fournitures Industrielles Agricoles et Metallurgie s.a
                         </h1>
-                        <p>Équipements et expertise pour le secteur minier</p>
-                        <a href="{{ route('mines') }}">
+                        <p>Services d'exportation internationaux</p>
+                        <a href="{{ route('contactShow') }}">
                             <button style="background-color: #003580;border-color: #003580;" class="btn btn-info">
                                 En savoir plus
                             </button>

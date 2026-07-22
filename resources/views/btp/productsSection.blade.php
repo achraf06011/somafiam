@@ -19,7 +19,7 @@
             <article class="product-card wow fadeIn" data-wow-delay="{{ 0.05 * ($index % 12) }}s"
                 data-subcategory-id="{{ $product->subCategory }}">
                 <div class="prod-img-wrap @if(in_array($product->nomProduct, ['XE210WB', 'XE150WB'])) has-watermark @endif">
-                    <img src="{{ asset('btpProducts/' . $product->imgProduct) }}"
+                    <img class="zoomable-img" src="{{ asset('btpProducts/' . $product->imgProduct) }}"
                         alt="{{ $product->nomProduct }}" loading="lazy">
                 </div>
                 <div class="prod-body">
@@ -29,6 +29,8 @@
             </article>
         @endforeach
     @endif
+
+    @include('partials.imageLightbox')
 </body>
 
 </html>

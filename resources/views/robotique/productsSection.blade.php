@@ -16,7 +16,7 @@
             <article class="product-card wow fadeIn" data-wow-delay="{{ 0.05 * ($index % 12) }}s"
                 data-subcategory-id="{{ $product->subCategory }}">
                 <div class="prod-img-wrap">
-                    <img src="{{ asset('robotique/products/' . $product->imgProduct) }}"
+                    <img class="zoomable-img" src="{{ asset('robotique/products/' . $product->imgProduct) }}"
                         alt="{{ $product->nomProduct }}" loading="lazy">
                 </div>
                 <div class="prod-body">
@@ -26,5 +26,7 @@
             </article>
         @endforeach
     @endif
+
+    @include('partials.imageLightbox')
 </body>
 </html>

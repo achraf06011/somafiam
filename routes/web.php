@@ -23,10 +23,6 @@ Route::get('/mentions-legales', function () {
     return view('mentionsLegales');
 })->name('mentionsLegales');
 
-Route::get('/notreEquipe', function () {
-    return view('GroupPage');
-});
-
 Route::get('/aProposNous', function () {
     return view('AboutUs');
 });

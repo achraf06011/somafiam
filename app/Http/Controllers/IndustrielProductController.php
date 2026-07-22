@@ -34,7 +34,7 @@ class IndustrielProductController extends Controller
         $category = IndustrielCategory::find($id);
         $subCategories = IndustrielSubCategory::where('category', $id)->get();
         $subCategoryIds = $subCategories->pluck('id');
-        $products = IndustrielProduct::whereIn('subCategory', $subCategoryIds)->get();
+        $products = IndustrielProduct::whereIn('subCategory', $subCategoryIds)->orderBy('ordre')->get();
         $categories = IndustrielCategory::with('subcategories')->orderBy('ordre')->get();
 
         return view('industriel.products', [
@@ -51,6 +51,7 @@ class IndustrielProductController extends Controller
             $query->where('category', $categoryId);
         })
         ->where('nomProduct', 'LIKE', "%{$query}%")
+        ->orderBy('ordre')
         ->get();
 
         $categories = IndustrielCategory::with('subcategories')->orderBy('ordre')->get();

@@ -706,6 +706,12 @@
         p.footer__callout-title.wow.fadeIn {
             font-size: 35px;
         }
+
+        /* ── Responsive hero/section titles ── */
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 1.8rem; }
+            .company-name { font-size: 20px !important; letter-spacing: 3px !important; padding: 18px 20px !important; }
+        }
     </style>
 
     <script src="{{ asset('js/jquery.min.js') }}"></script>

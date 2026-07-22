@@ -260,6 +260,26 @@
             opacity: 1;
         }
 
+        /* ── Responsive grid ── */
+        @media (max-width: 992px) {
+            .product-card,
+            .products.grid-view .product-card {
+                width: calc(50% - 14px);
+            }
+        }
+        @media (max-width: 576px) {
+            .product-card,
+            .products.grid-view .product-card {
+                width: 100%;
+            }
+            .products.list-view .prod-img-wrap {
+                width: 100px;
+            }
+            .products.list-view .prod-img-wrap img {
+                width: 100px;
+            }
+        }
+
         /* ------------------------------- Hero design ------------------------------- */
 
         section div h2 {
@@ -487,6 +507,11 @@
             width: 100%;
             color: rgb(18, 44, 92);
             font-weight: 800;
+        }
+
+        /* ── Responsive hero title ── */
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 28px; letter-spacing: 2px; }
         }
     </style>
 

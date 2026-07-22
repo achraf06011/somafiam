@@ -115,7 +115,7 @@
                                 <div class="col-md-6 col-lg-3 mb-4">
                                     <div class="prod-card">
                                         <div class="prod-card__img">
-                                            <img src="{{ asset('metallurgieProducts/' . $product->imgProduct) }}"
+                                            <img class="zoomable-img" src="{{ asset('metallurgieProducts/' . $product->imgProduct) }}"
                                                 loading="lazy"
                                                 alt="{{ $product->nomProduct }}">
                                         </div>
@@ -142,6 +142,8 @@
     @else
         <p>No products found for this subcategory.</p>
     @endif
+
+    @include('partials.imageLightbox')
 </body>
 
 </html>

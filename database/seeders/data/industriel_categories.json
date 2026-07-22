@@ -2,7 +2,7 @@
     {
         "id": 1,
         "nomCategory": "Transmission mécanique",
-        "imgCategory": "industrielCategories\/TransmissionMecanique.jpg",
+        "imgCategory": "industrielCategories\/TransmissionMecanique2.jpg",
         "created_at": "2024-08-09 14:54:15",
         "updated_at": "2024-08-09 14:54:16",
         "ordre": 22
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "nomCategory": "Joints d'étanchéité",
-        "imgCategory": "industrielCategories\/joints.jpg",
+        "imgCategory": "industrielCategories\/joints2.jpg",
         "created_at": "2024-08-19 13:51:33",
         "updated_at": "2024-08-19 13:51:34",
         "ordre": 28
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "nomCategory": "Huile lubrification et graisse",
-        "imgCategory": "industrielCategories\/lubrification.jpg",
+        "imgCategory": "industrielCategories\/lubrification2.jpg",
         "created_at": "2024-08-20 11:37:41",
         "updated_at": "2024-08-20 11:37:42",
         "ordre": 27
@@ -26,15 +26,15 @@
     {
         "id": 202,
         "nomCategory": "Appareillage basse tension",
-        "imgCategory": "industrielCategories\/Low-Voltage-Switchgear.jpg",
-        "created_at": "2024-09-09 15:37:54",
-        "updated_at": "2024-09-09 15:37:53",
+        "imgCategory": "industrielCategories\/LowVoltageSwitchgear2.jpg",
+        "created_at": "2026-07-20 12:28:57",
+        "updated_at": "2026-07-20 12:28:57",
         "ordre": 12
     },
     {
         "id": 205,
         "nomCategory": "Câble Électrique BT + MT + HT",
-        "imgCategory": "industrielCategories\/wire.jpg",
+        "imgCategory": "industrielCategories\/wire2.jpg",
         "created_at": "2024-10-10 18:01:40",
         "updated_at": "2024-10-10 18:01:41",
         "ordre": 18
@@ -42,7 +42,7 @@
     {
         "id": 214,
         "nomCategory": "Transformateur de puissance",
-        "imgCategory": "industrielCategories\/PowerTransformer.jpg",
+        "imgCategory": "industrielCategories\/PowerTransformer2.jpg",
         "created_at": "2024-10-10 18:01:48",
         "updated_at": "2024-10-10 18:01:48",
         "ordre": 7
@@ -50,7 +50,7 @@
     {
         "id": 216,
         "nomCategory": "pompes",
-        "imgCategory": "industrielCategories\/pompes.jpg",
+        "imgCategory": "industrielCategories\/pompes2.jpg",
         "created_at": "2024-10-10 18:01:50",
         "updated_at": "2024-10-10 18:01:51",
         "ordre": 1
@@ -58,7 +58,7 @@
     {
         "id": 217,
         "nomCategory": "Robinetterie industrielle",
-        "imgCategory": "industrielCategories\/RobinetterieIndustrielle.jpg",
+        "imgCategory": "industrielCategories\/RobinetterieIndustrielle2.jpg",
         "created_at": "2024-10-10 18:01:50",
         "updated_at": "2024-10-10 18:01:51",
         "ordre": 8
@@ -66,23 +66,23 @@
     {
         "id": 219,
         "nomCategory": "Instrumentations de mesure",
-        "imgCategory": "industrielProducts\/MANOMÈTRE À TUBE DE BOURDON EN ACIER INOXYDABLE.webp",
+        "imgCategory": "industrielCategories\/InstrumentationsMesure2.jpg",
         "created_at": "2024-10-10 18:01:53",
         "updated_at": "2024-10-10 18:01:52",
         "ordre": 21
     },
     {
         "id": 301,
-        "nomCategory": "Composants hydrauliques",
-        "imgCategory": "industrielCategories\/composants-hydrauliques.jpg",
+        "nomCategory": "Hydraulique",
+        "imgCategory": "industrielCategories\/composants-hydrauliques2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 9
     },
     {
         "id": 302,
-        "nomCategory": "Composants pneumatiques",
-        "imgCategory": "industrielCategories\/pneumatique.jpg",
+        "nomCategory": "Pneumatique",
+        "imgCategory": "industrielCategories\/pneumatique2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 10
@@ -90,7 +90,7 @@
     {
         "id": 303,
         "nomCategory": "Roulements",
-        "imgCategory": "industrielCategories\/bearings.png",
+        "imgCategory": "industrielCategories\/bearings2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 23
@@ -98,7 +98,7 @@
     {
         "id": 304,
         "nomCategory": "Paliers des roulements",
-        "imgCategory": "industrielCategories\/0901d19680c97134_png_highpreview_800.png",
+        "imgCategory": "industrielCategories\/PaliersRoulements2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 24
@@ -106,7 +106,7 @@
     {
         "id": 3003,
         "nomCategory": "Entraînement électrique",
-        "imgCategory": "industrielCategories\/MKrEIqoeWXif3NiHf3Og977dpX0oZac5ejgu8RK1.jpg",
+        "imgCategory": "industrielCategories\/EntrainementElectrique2.jpg",
         "created_at": "2024-08-27 09:43:18",
         "updated_at": "2024-08-27 09:43:18",
         "ordre": 6
@@ -114,7 +114,7 @@
     {
         "id": 3006,
         "nomCategory": "Panneaux Solaires",
-        "imgCategory": "industrielCategories\/fdcrMqUcv1AXMtVOesnIRwjOV4YavinEKmfgpQNu.jpg",
+        "imgCategory": "industrielCategories\/PanneauxSolaires2.jpg",
         "created_at": "2024-08-27 10:55:51",
         "updated_at": "2024-08-27 10:55:51",
         "ordre": 25
@@ -122,23 +122,15 @@
     {
         "id": 3007,
         "nomCategory": "Stockage d'énergie",
-        "imgCategory": "industrielCategories\/IXGdMFp493Jkivaf2Hg9CXj8OmCD440l87Eu4rEr.jpg",
+        "imgCategory": "industrielCategories\/StockageEnergie2.jpg",
         "created_at": "2024-08-27 12:08:42",
         "updated_at": "2024-08-27 12:08:42",
         "ordre": 26
     },
     {
-        "id": 3009,
-        "nomCategory": "Automatisation des processus",
-        "imgCategory": "industrielCategories\/AutomatisationProcessus.jpg",
-        "created_at": "2024-10-10 18:09:55",
-        "updated_at": "2024-10-16 19:45:29",
-        "ordre": 11
-    },
-    {
         "id": 9001,
         "nomCategory": "Compresseur",
-        "imgCategory": "industrielCategories\/Screw.jpg",
+        "imgCategory": "industrielCategories\/Screw2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 4
@@ -146,7 +138,7 @@
     {
         "id": 9002,
         "nomCategory": "Groupes électrogènes",
-        "imgCategory": "industrielCategories\/CM.jpg",
+        "imgCategory": "industrielCategories\/CM2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 5
@@ -154,7 +146,7 @@
     {
         "id": 9003,
         "nomCategory": "Moteurs electriques",
-        "imgCategory": "industrielCategories\/Moteurs.png",
+        "imgCategory": "industrielCategories\/Moteurs2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 2
@@ -162,7 +154,7 @@
     {
         "id": 9004,
         "nomCategory": "Motoréducteurs",
-        "imgCategory": "industrielCategories\/MF.jpg",
+        "imgCategory": "industrielCategories\/MF2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 3
@@ -170,7 +162,7 @@
     {
         "id": 9005,
         "nomCategory": "Transformateurs BT, MT, HT",
-        "imgCategory": "industrielCategories\/5kVA.webp",
+        "imgCategory": "industrielCategories\/5kVA2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 19
@@ -178,7 +170,7 @@
     {
         "id": 9006,
         "nomCategory": "Disjoncteurs BT, MT, HT",
-        "imgCategory": "industrielCategories\/11kv.webp",
+        "imgCategory": "industrielCategories\/11kv2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 20
@@ -186,7 +178,7 @@
     {
         "id": 9007,
         "nomCategory": "Les Appareils de commande BT, MT, HT",
-        "imgCategory": "industrielCategories\/6kv.webp",
+        "imgCategory": "industrielCategories\/6kv2.jpg",
         "created_at": null,
         "updated_at": null,
         "ordre": 16
@@ -194,7 +186,7 @@
     {
         "id": 9008,
         "nomCategory": "Outillage et Equipements",
-        "imgCategory": "industrielCategories\/outillage-equipements.png",
+        "imgCategory": "industrielCategories\/outillage-equipements2.jpg",
         "created_at": "2026-06-27 15:32:50",
         "updated_at": "2026-06-27 15:32:50",
         "ordre": 29

@@ -176,6 +176,13 @@
             font-size: 36px;
             color: #8fa5c5;
         }
+
+        /* ── Responsive hero/section titles ── */
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 1.8rem; }
+            .hero-content p { font-size: 13px; }
+            .hero-text h1.company-name { font-size: 20px; letter-spacing: 3px; padding: 18px 20px; }
+        }
     </style>
 </head>
 

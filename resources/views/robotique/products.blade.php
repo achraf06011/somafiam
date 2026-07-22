@@ -136,6 +136,18 @@
         .products.list-view .prod-body { padding: 14px 18px; justify-content: center; }
         .products.list-view .product-card h4 { font-size: 14px; -webkit-line-clamp: 2; }
 
+        /* ── Responsive grid ── */
+        @media (max-width: 992px) {
+            .product-card,
+            .products.grid-view .product-card { width: calc(50% - 14px); }
+        }
+        @media (max-width: 576px) {
+            .product-card,
+            .products.grid-view .product-card { width: 100%; }
+            .products.list-view .prod-img-wrap { width: 100px; }
+            .products.list-view .prod-img-wrap img { width: 100px; }
+        }
+
         /* ── Hero ── */
         .hero-section {
             position: relative; width: 100%; height: 50vh;
@@ -229,6 +241,11 @@
             display: flex; justify-content: center; align-items: center;
             height: 30vh; width: 100%;
             color: rgb(18, 44, 92); font-weight: 800;
+        }
+
+        /* ── Responsive hero title ── */
+        @media (max-width: 768px) {
+            .hero-content h1 { font-size: 28px; letter-spacing: 2px; }
         }
     </style>
 

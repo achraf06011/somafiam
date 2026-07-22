@@ -284,9 +284,9 @@
             <nav id="main-nav">
                 <ul>
                     <li><a href="/">Accueil</a></li>
-                    <li><a href="/aProposNous">À propos de nous</a></li>
+                    <li><a href="/aProposNous">Qui sommes nous</a></li>
                     <li class="dropdown">
-                        <a href="#" id="services-link">Services ▾</a>
+                        <a href="#" id="services-link">Nos Produits ▾</a>
                         <div class="dropdown-content" id="dropdown-content">
                             <div id="industriel-tab" style="flex:1;">
                                 <a href="{{ route('industrielProducts.index') }}">
@@ -327,13 +327,13 @@
                     </li>
 
                     @php
-                        $headerIndustrielCats  = \App\Models\IndustrielCategory::orderBy('nomCategory')->get();
-                        $headerAgricultureCats = \App\Models\AgricultureCategory::orderBy('nomCategory')->get();
-                        $headerMetalCats       = \App\Models\MetallurgieCategory::orderBy('nomCategory')->get();
-                        $headerRobotiqueCats   = \App\Models\RobotiqueCategory::orderBy('nomCategory')->get();
-                        $headerBtpCats         = \App\Models\BtpCategory::orderBy('nomCategory')->get();
-                        $headerMinesCats       = \App\Models\MinesCategory::orderBy('nomCategory')->get();
-                        $headerManutentionCats = \App\Models\ManutentionCategory::orderBy('nomCategory')->get();
+                        $headerIndustrielCats  = \App\Models\IndustrielCategory::orderBy('ordre')->get();
+                        $headerAgricultureCats = \App\Models\AgricultureCategory::orderBy('ordre')->get();
+                        $headerMetalCats       = \App\Models\MetallurgieCategory::orderBy('ordre')->get();
+                        $headerRobotiqueCats   = \App\Models\RobotiqueCategory::orderBy('ordre')->get();
+                        $headerBtpCats         = \App\Models\BtpCategory::orderBy('ordre')->get();
+                        $headerMinesCats       = \App\Models\MinesCategory::orderBy('ordre')->get();
+                        $headerManutentionCats = \App\Models\ManutentionCategory::orderBy('ordre')->get();
                     @endphp
 
                     {{-- Panel Industriel --}}
@@ -440,7 +440,6 @@
                         </div>
                     </div>
                     <li><a href="/nos-catalogues">Catalogues</a></li>
-                    <li><a href="/notreEquipe">Notre Équipe</a></li>
                     <li style="display:none" class="mobile-contact-item">
                         <a href="/contact" style="color:#F47920 !important; font-weight:900;">Contactez-nous</a>
                     </li>
