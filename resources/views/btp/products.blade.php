@@ -553,11 +553,6 @@
     <div class="container">
         <div class="main-content">
             <section class="toolbar">
-                <button class="btn btn-light Filterings wow fadeIn" data-wow-delay="0.9s" id="toggle-subcategories"
-                    style="font-family: Rubik; font-weight: 700;">
-                    Catégories
-                </button>
-
                 @php
                     $categoryId = request('category');
                 @endphp
@@ -594,18 +589,6 @@
 
     <script>
         new WOW().init();
-    </script>
-
-    <script>
-        document.getElementById('toggle-subcategories').addEventListener('click', function() {
-            const subcategories = document.getElementById('subcategories');
-            subcategories.classList.toggle('show');
-        });
-
-        document.getElementById('toggle-subcategoriesClose').addEventListener('click', function() {
-            const subcategories = document.getElementById('subcategories');
-            subcategories.classList.remove('show');
-        });
     </script>
 
     <script>

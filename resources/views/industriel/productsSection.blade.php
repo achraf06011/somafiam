@@ -9,16 +9,13 @@
     <style>
         .logo-mask-top    { position:absolute; top:0;    left:0; right:0; background:#fff; z-index:2; height:36px; }
         .logo-mask-bottom { position:absolute; bottom:0; left:0; right:0; background:#fff; z-index:2; height:44px; }
-        .logo-mask-top-sm { position:absolute; top:0;    left:0; right:0; background:#fff; z-index:2; height:30px; }
         @media (max-width: 768px) {
             .logo-mask-top    { height: 24px; }
             .logo-mask-bottom { height: 30px; }
-            .logo-mask-top-sm { height: 18px; }
         }
         @media (max-width: 480px) {
             .logo-mask-top    { height: 20px; }
             .logo-mask-bottom { height: 26px; }
-            .logo-mask-top-sm { height: 15px; }
         }
     </style>
 </head>
@@ -32,7 +29,7 @@
         @foreach ($products as $index => $product)
             @php
                 $subCategory = $subCategories->firstWhere('id', $product->subCategory);
-                $maskCategory = isset($category) && in_array($category->id, [9005, 9006, 9007, 3006]);
+                $maskCategory = isset($category) && in_array($category->id, [9005, 9006, 9007]);
             @endphp
             <article class="product-card wow fadeIn" data-wow-delay="{{ 0.05 * ($index % 12) }}s"
                 data-subcategory-id="{{ $product->subCategory }}">
@@ -42,8 +39,6 @@
                     @if(isset($category) && in_array($category->id, [9005, 9006, 9007]))
                         <div class="logo-mask-top"></div>
                         <div class="logo-mask-bottom"></div>
-                    @elseif(isset($category) && $category->id == 3006)
-                        <div class="logo-mask-top-sm"></div>
                     @endif
                 </div>
                 <div class="prod-body">

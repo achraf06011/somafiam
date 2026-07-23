@@ -285,11 +285,6 @@
     <div class="container">
         <div class="main-content">
             <section class="toolbar">
-                <button class="btn btn-light Filterings wow fadeIn" data-wow-delay="0.9s"
-                    id="toggle-subcategories" style="font-family:Gruppo;font-weight:700;">
-                    Catégories
-                </button>
-
                 @php $categoryId = $category->id ?? request('category'); @endphp
 
                 <div class="d-flex justify-content-left flex-grow-1 wow fadeIn" data-wow-delay="1.1s">
@@ -319,15 +314,6 @@
 
     <script src="{{ asset('lib/wow/wow.min.js') }}"></script>
     <script>new WOW().init();</script>
-
-    <script>
-        document.getElementById('toggle-subcategories').addEventListener('click', function () {
-            document.getElementById('subcategories').classList.toggle('show');
-        });
-        document.getElementById('toggle-subcategoriesClose').addEventListener('click', function () {
-            document.getElementById('subcategories').classList.remove('show');
-        });
-    </script>
 
     <script>
         document.getElementById('grid-view').addEventListener('click', function () {
